@@ -7012,7 +7012,7 @@
 # http://www.htslib.org/doc/tabix.html
 # http://samtools.github.io/hts-specs/tabix.pdf
 0	string	TBI\x01	Tabix Index File
-!:ext	tbi.uncompressed
+!:ext	uncompressed
 
 
 # Tableau Data Extract
