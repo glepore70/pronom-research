@@ -27,7 +27,7 @@
 0	string	MDL4	3D GameStudio 3DGS File
 0	string	MDL5	3D GameStudio 3DGS File
 0	string	MDL7	3D GameStudio 3DGS File
-!:ext	mdl2
+!:ext	mdl
 
 
 # 3D GameStudio 3DGS Terrain File
@@ -35,13 +35,13 @@
 0	string	HMP4	3D GameStudio 3DGS Terrain File
 0	string	HMP5	3D GameStudio 3DGS Terrain File
 0	string	HMP7	3D GameStudio 3DGS Terrain File
-!:ext	hmp2
+!:ext	hmp
 
 
 # 3D GameStudio 3DGS WAD File
 # http://www.conitec.net/beta/fileformats.htm
 0	string	WAD2	3D GameStudio 3DGS WAD File
-!:ext	wad2
+!:ext	wad
 
 
 # 3D GameStudio 3DGS WMB File
@@ -110,14 +110,14 @@
 # https://en.wikipedia.org/wiki/ABBYY_FineReader
 # http://bbs.2ccc.com/attachments/2020/letianwuji_20209232721.pdf
 0	string	=\x9c\x01\0\0	ABBYY Finereader Language Dictionary
-!:ext	amd2
+!:ext	amd
 
 
 # ABBYY Finereader Language User Dictionary
 # https://en.wikipedia.org/wiki/ABBYY_FineReader
 # http://bbs.2ccc.com/attachments/2020/letianwuji_20209232721.pdf
 0	string	amd/	ABBYY Finereader Language User Dictionary
-!:ext	amd1
+!:ext	amd
 
 
 # ABBYY Lingvo Compiled Dictionary
@@ -145,7 +145,7 @@
 # AC3D Model
 # http://fileformats.archiveteam.org/wiki/AC3D_Model
 0	string	AC3Db\x0d\x0a	AC3D Model
-!:ext	ac3d
+!:ext	ac
 
 
 # Ace Tracker Module
@@ -159,7 +159,6 @@
 # Acorn Draw Vector Image
 # http://fileformats.archiveteam.org/wiki/Acorn_Draw
 0	string	Draw\xC9\x00\x00\x00\x00\x00\x00\x00Draw\x20\x20\x20\x20	Acorn Draw Vector Image
-!:ext	draw
 
 
 # AdLib Visual Composer Instrument Bank
@@ -195,7 +194,7 @@
 # https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_text_tx-dictionaries-personal-and-site.html
 # https://opensource.apple.com/source/cctools/cctools-590.18/file/magdir/frame.auto.html
 0	string	=<MakerDictionary	Adobe FrameMaker Dictionary File
-!:ext	dct2
+!:ext	dct
 
 
 # Adobe FrameMaker MIF ASCII File
@@ -240,14 +239,14 @@
 # Adobe Photoshop Gradients File
 # https://web.archive.org/web/20150907065117/http://www.tonton-pixel.com/Photoshop%20Additional%20File%20Formats/gradients-file-format.html
 0	string	8BGR	Adobe Photoshop Gradients File
-!:ext	grd3
+!:ext	grd
 
 
 # Adobe Photoshop Pattern
 # https://github.com/maz-1/archlinux_packages/blob/master/gimp-photoshop-pattern/ps-pat-load_1.c
 # http://www.selapa.net/swatches/patterns/fileformats.php
 0	string	8BPT	Adobe Photoshop Pattern
-!:ext	pat3
+!:ext	pat
 
 
 # Adobe Photoshop Styles File
@@ -290,7 +289,7 @@
 # http://www.ifwiki.org/index.php/ADRIFT
 # http://fileformats.archiveteam.org/wiki/ADRIFT
 0	string	=#\x0a#\ ADRI	Adventure Development and Runner Module
-!:ext	amf2
+!:ext	amf
 
 
 # Adventure Game Toolkit Executable
@@ -323,7 +322,7 @@
 # Affymetrix CDF Data File ASCII
 # https://www.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/cdf.html
 0	string	=[CDF]\x0d\x0aV	Affymetrix CDF Data File ASCII
-!:ext	cdf4
+!:ext	cdf
 
 
 # Affymetrix EXP Data File
@@ -335,7 +334,7 @@
 # Affymetrix GRD Data File
 # https://www.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/grd.html
 0	string	=\x89GRD\x0d\x0a\x1a\x0a	Affymetrix GRD Data File
-!:ext	grd2
+!:ext	grd
 
 
 # Affymetrix Probe Set Information
@@ -372,12 +371,12 @@
 # Aldus PhotoStyler Palette File
 # https://en.wikipedia.org/wiki/Aldus_PhotoStyler
 0	string	CWPAL	Aldus PhotoStyler Palette File
-!:ext	pal4
+!:ext	pal
 
 
 # Aldus Table Editor
 0	string	=\x00\x00\x00\x01\x00\x02\x00\x01\x4B\x02\x00\x02\x00\x00\x00\x0A\x00\x01\x00\x08	Aldus Table Editor
-!:ext	tbl2
+!:ext	tbl
 
 
 # Alembic ABC 3d Model
@@ -404,14 +403,14 @@
 # http://fileformats.archiveteam.org/wiki/Allegro_packfile
 # https://github.com/liballeg/allegro5/blob/4.4/docs/src/packfile._tx
 0	string	slh.	Allegro Packfile Uncompressed
-!:ext	dat2
+!:ext	dat
 
 
 # Alsa Modular Synth Patch
 # http://alsamodular.sourceforge.net/
 0	string	Module
 >0	search/200	FSlider	Alsa Modular Synth Patch
-!:ext	ams3
+!:ext	ams
 
 
 # Altium Designer Installation File
@@ -419,7 +418,7 @@
 # https://en.wikipedia.org/wiki/Altium_Designer
 # https://www.altium.com/documentation/altium-dxp-developer/server-configuration-files#!the-structure-of-an-installation-file
 0	string	ClientInsFile	Altium Designer Installation File
-!:ext	ins2
+!:ext	ins
 
 
 # Altium Designer Stackup File
@@ -441,21 +440,21 @@
 # http://ambermd.org/doc/OFF_file_format.txt
 # http://ambermd.org/
 0	string	=!!index\x20	Amber OFF Library File
-!:ext	off2
+!:ext	off
 
 
 # Amiga HotHelp Documentation Format
 # http://fileformats.archiveteam.org/wiki/HotHelp
 0	string	=$VER:\ HotHelpText	Amiga HotHelp Documentation Format
 0	string	=$VER:\ HotHelpHeader	Amiga HotHelp Documentation Format
-!:ext	hdr3
+!:ext	hdr
 
 
 # Amiga Metafile Format
 # http://fileformats.archiveteam.org/wiki/Amiga_Metafile
 0	string	FORM
 >8	string	AMFF	Amiga Metafile Format
-!:ext	amf3
+!:ext	amf
 
 
 # Amiga Speculator ZX82 File
@@ -468,7 +467,7 @@
 # AmigaOS Object_library Data
 # http://fileformats.archiveteam.org/wiki/Amiga_Hunk
 0	string	=\0\0\x03\xe7	AmigaOS Object_library Data
-!:ext	hunk
+!:ext	o
 
 
 # AMX Mod X Plugin
@@ -494,13 +493,7 @@
 # Ani ST Vector Graphic
 # http://fileformats.archiveteam.org/wiki/AniST
 0	string	=*script\x20	Ani ST Vector Graphic
-!:ext	aniST
-
-
-# ANIM Animated Raster Graphic
-# http://fileformats.archiveteam.org/wiki/ANIM
-8	string	ANIMFORM	ANIM Animated Raster Graphic
-!:ext	anim
+!:ext	scr/str
 
 
 # Animatic Film Format
@@ -524,7 +517,7 @@
 # Applause II Palette File
 # https://winworldpc.com/product/applause/ii
 0	string	Palette\ file	Applause II Palette File
-!:ext	pal3
+!:ext	pal
 
 
 # Apple EXS24 Sampler File
@@ -538,7 +531,7 @@
 # https://en.wikipedia.org/wiki/Apple_SOS
 # https://www.apple3.org/iiisoftware.html
 0	string	Ln\xa0SOS\ BOOT	Apple III Sophisticated Operating System DSK File
-!:ext	dsk7
+!:ext	dsk
 
 
 # Apple NeXT Keymapping file
@@ -550,7 +543,7 @@
 # Applixware Macro
 # https://opensource.apple.com/source/file/file-6.1/file/magic/Magdir/applix.auto.html
 0	string	=*BEGIN\ MACROS\ VERSION	Applixware Macro
-!:ext	am2
+!:ext	am
 
 
 # ARCHICAD Archive
@@ -572,13 +565,12 @@
 # Archimedes Tracker Module
 # https://blog.sphere.chronosempire.org.uk/2014/02/02/crystal-maze-theme
 0	string	MUSX	Archimedes Tracker Module
-!:ext	musx
 
 
 # ARJ Software JAR Archive Data
 # http://fileformats.archiveteam.org/wiki/JAR_(ARJ_Software)
 14	string	=\x1aJar\x1b	ARJ Software JAR Archive Data
-!:ext	j2
+!:ext	j
 
 
 # ARQ Crusher Compressed File
@@ -609,7 +601,6 @@
 # ArtWorks Vector Image
 # http://fileformats.archiveteam.org/wiki/Artworks
 0	string	Top!	ArtWorks Vector Image
-!:ext	artworks
 
 
 # Ascaron Image Format
@@ -650,14 +641,14 @@
 # Astound Actor File
 # http://www.ideaforum.com/astound.htm
 0	string	ACTR	Astound Actor File
-!:ext	act2
+!:ext	act
 
 
 # Astound Macintosh Presentation
 # https://winworldpc.com/product/astound-presentation/70
 0	string	PMMP
 >8	string	DBBM	Astound Macintosh Presentation
-!:ext	asmac
+!:ext	asd
 
 
 # Astound Punctuation File
@@ -723,7 +714,6 @@
 # https://wireless.wiki.kernel.org/en/users/drivers/ath10k
 # https://github.com/kvalo/ath10k-firmware/tree/master
 0	string	QCA-ATH10K	ATH10K Firmware File
-!:ext	ath10k
 
 
 # Audacity Audio Block
@@ -779,13 +769,13 @@
 # AutoCAD Batch Plot
 # https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=57
 0	string	AutoCAD\ Extended\ Batch\ Plot\ List\ File	AutoCAD Batch Plot
-!:ext	bp
+!:ext	bp2
 
 
 # AutoCAD Batch Plot, 2000-2005
 # https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=56
 0	string	AutoCAD\ 2000\ Batch\ Plot\ List\ File	AutoCAD Batch Plot, 2000-2005
-!:ext	bp2
+!:ext	bp3
 
 
 # AutoCAD Block Attribute Template
@@ -831,7 +821,7 @@
 # AutoCAD Film Roll
 # https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=218
 0	string	AutoCAD/AutoShade\ Film\ roll\x0D\x0A	AutoCAD Film Roll
-!:ext	flm3
+!:ext	flm
 
 
 # AutoCAD Landscape Library
@@ -842,7 +832,7 @@
 
 # AutoCAD Last Saved Layer State
 0	string	\ \ 0\x0D\x0ALAYERSTATEDICTIONARY	AutoCAD Last Saved Layer State
-!:ext	LAS
+!:ext	las
 
 
 # AutoCAD Menu Resource File
@@ -863,7 +853,7 @@
 # AutoCAD Plot Configuration File, R14
 # https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=119
 0	string	PC2Version1\x0D\x0A\x0D\x0A[PlotDriver]	AutoCAD Plot Configuration File, R14
-!:ext	pc2
+!:ext	pc
 
 
 # AutoCAD PROTECTED LISP File
@@ -924,7 +914,7 @@
 # https://en.wikipedia.org/wiki/Autotrax
 0	string	PCB\ FILE\ 4	Autotrax Easytrax Printed Circuit Board File
 0	string	PCB\ FILE\ 5	Autotrax Easytrax Printed Circuit Board File
-!:ext	pcb2
+!:ext	pcb
 
 
 # AVF Multimedia Format
@@ -966,7 +956,7 @@
 # Beam Software Siff Sound
 # http://fileformats.archiveteam.org/wiki/SIFF
 0	string	SIFF\x00	Beam Software Siff Sound
-!:ext	siff
+!:ext	son
 
 
 # Beathoven Synthesiser File
@@ -980,7 +970,7 @@
 # https://musical-artifacts.com/artifacts/550
 0	string	BSB_1	Beatnik Sound Builder Sound Bank
 0	string	BSB_2	Beatnik Sound Builder Sound Bank
-!:ext	bsb2
+!:ext	bsb
 
 
 # Beaver Sweeper Module
@@ -1027,12 +1017,11 @@
 0	search/200/b	BGI\ Device\ Driver	BGI Device Driver
 
 
-
 # Bidimensional Anisotropic Mesh Generator
 # https://people.math.sc.edu/Burkardt/data/bamg/bamg.html
 # https://doc.freefem.org/documentation/developers.html#meshfiledatastructure
 0	string	MeshVersionFormatted	Bidimensional Anisotropic Mesh Generator
-!:ext	bamg
+!:ext	msh
 
 
 # Big Flexible Line Interpretation Bitmap
@@ -1044,7 +1033,7 @@
 # BigBed Format
 # http://genome.ucsc.edu/goldenPath/help/bigBed.html
 0	string	=\xeb\xf2\x89\x87\x04	BigBed Format
-!:ext	bigbed
+!:ext	bb
 
 
 # BigTIFF
@@ -1074,7 +1063,7 @@
 # Binary EYE Translation File
 # https://sourceforge.net/projects/beye/
 0	string	Biew\ Xlat\ Table.	Binary EYE Translation File
-!:ext	xlt2
+!:ext	xlt
 
 
 # Binary Universal Form for the Representation of Meteorological Data
@@ -1086,7 +1075,7 @@
 # BioSemi Data Format
 # https://www.biosemi.com/faq/file_format.htm
 0	string	=\xffBIOSEMI	BioSemi Data Format
-!:ext	bdf3
+!:ext	bdf
 
 
 # BioWare Encapsulated Resource File Format
@@ -1100,7 +1089,6 @@
 # BitKeeper Generated Patch
 # https://en.wikipedia.org/wiki/BitKeeper
 0	string	=#\ This\ is\ a\ BitKeeper	BitKeeper Generated Patch
-!:ext	bitkeeper
 
 
 # Bitmapped Signum_2 Printer Font Laser Deskjet
@@ -1138,15 +1126,6 @@
 0	string	BLP2	Blizzard Picture Format
 !:ext	blp
 
-
-# BLORB Interactive Fiction File
-# http://fileformats.archiveteam.org/wiki/Blorb
-# https://www.eblong.com/zarf/blorb/Blorb-Spec.html
-0	string	FORM
->8	string	IFRSRIdx	BLORB Interactive Fiction File
-!:ext	blorb
-
-
 # Blue Moon Rendering Tools Shading Language File
 # https://en.wikipedia.org/wiki/Blue_Moon_Rendering_Tools
 # http://yodel.net/members/mikael/data/rm/ShaderReport.pdf
@@ -1159,7 +1138,7 @@
 # http://fileformats.archiveteam.org/wiki/Bob%27s_Adlib_Music
 # https://rpg.hamsterrepublic.com/ohrrpgce/BAM_Format
 0	string	CBMF	Bob's Adlib Music
-!:ext	bam3
+!:ext	bam
 
 
 # Borland C++ AppExpert Database
@@ -1203,7 +1182,7 @@
 0	string	PKG7	Borland Delphi Compiled Package
 0	string	PKG9	Borland Delphi Compiled Package
 0	string	PKX0	Borland Delphi Compiled Package
-!:ext	dcp
+!:ext	dcp/dcpil
 
 
 # Borland Locale Library
@@ -1237,7 +1216,7 @@
 0	string	TPU6	Borland Turbo Pascal Compiled Unit
 0	string	TPU9	Borland Turbo Pascal Compiled Unit
 0	string	TPUQ	Borland Turbo Pascal Compiled Unit
-!:ext	tpu
+!:ext	tpu/tpp
 
 
 # Borland Turbo Vision Resource
@@ -1250,7 +1229,7 @@
 # BRender PIX Image
 # http://fileformats.archiveteam.org/wiki/BRender_PIX
 0	string	=\x00\x00\x00\x12\x00\x00\x00\x08\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\x03	BRender PIX Image
-!:ext	pix2
+!:ext	pix
 
 
 # BRender Video
@@ -1382,7 +1361,7 @@
 # https://discuss.pixls.us/t/new-canon-cr3-file-specification/6881
 4	string	ftypcrx
 >16	string	crx\ isom	Canon Cr3 Raw Image
-!:ext	cr3
+!:ext	cr
 
 
 # Cape Pack CAPE Robotic Interface File
@@ -1402,7 +1381,7 @@
 # https://lesia.obspm.fr/kronos/guest.php
 # https://lesia.obspm.fr/kronos/routines/paquets_hfr.html
 0	string	StPk1	CASSINI RPWS HFR IDL Format
-!:ext	idl2
+!:ext	idl
 
 
 # CATIA V5 Data
@@ -1447,7 +1426,7 @@
 # https://chessok.com/?page_id=29
 # https://chessok.com/?p=22122
 0	string	=*Chess\ Assistant\ Dataset\ File.	Chess Assistant Dataset File
-!:ext	bim
+!:ext	bim/bic/bid/bis
 
 
 # ChessBase Archive File
@@ -1461,7 +1440,7 @@
 # Chronic Entertainment Animation File
 # https://www.mobygames.com/company/gigawatt-studios
 0	string	=\x0D\x0AChronic\ Entertainment\ Inc.\x0D\x0A	Chronic Entertainment Animation File
-!:ext	cea1
+!:ext	cea
 
 
 # CHUMP File Format
@@ -1479,7 +1458,7 @@
 # https://circuitmaker.com/
 # https://www.wikidata.org/wiki/Q105849714
 0	string	CircuitMaker\ Text\x0d\x0a	CircuitMaker Schematic
-!:ext	ckt2
+!:ext	ckt
 
 
 # Citation File Format
@@ -1520,7 +1499,7 @@
 # https://en.wikipedia.org/wiki/Claris#Pro_series
 # https://winworldpc.com/product/clarisdraw/10x
 0	string	=\x02\0\xc0\x02EXPW	ClarisDraw Library
-!:ext	clb2
+!:ext	clb
 
 
 # ClarisImpact CGP Palette
@@ -1534,8 +1513,7 @@
 # https://en.wikipedia.org/wiki/Claris#Pro_series
 # https://winworldpc.com/product/claris-impact/2x
 0	string	=\x02\x02\xd0\0CIPT	ClarisImpact Document
-!:ext	cid
-
+!:ext	cid/cit
 
 # ClarisImpact Library
 # https://en.wikipedia.org/wiki/Claris#Pro_series
@@ -1559,7 +1537,7 @@
 # ClickOnce Compiled Manifest
 # http://file.fyicenter.com/221_CDF-MS-File_Extension_for_WinSxS_FileMaps_Files.html
 0	string	PcmH\x01	ClickOnce Compiled Manifest
-!:ext	cdfms
+!:ext	cdf-ms
 
 
 # CMplay Tachyon Bank
@@ -1567,7 +1545,7 @@
 # https://www.scribd.com/document/454159618/CMplay-User-Manual
 # https://web.archive.org/web/20090301041745/http://muon-software.com/html/computer_music_magazine.html
 0	string	Ms1210BK	CMplay Tachyon Bank
-!:ext	tcb2
+!:ext	tcb
 
 
 # CMZ Compressed Archive
@@ -1586,7 +1564,7 @@
 # Coke Format Bitmap
 # http://fileformats.archiveteam.org/wiki/COKE_(Atari_Falcon)
 0	string	COKE\ format.	Coke Format Bitmap
-!:ext	tg1
+!:ext	tg
 
 
 # ColorViewSquash Graphics File
@@ -1623,7 +1601,7 @@
 # ComputerEyes Raw Data Format Bitmap
 # http://fileformats.archiveteam.org/wiki/ComputerEyes
 0	string	EYES	ComputerEyes Raw Data Format Bitmap
-!:ext	ce
+!:ext	ce1/ce2/ce3
 
 
 # CopyQM Disk Image
@@ -1651,7 +1629,7 @@
 # Corel Custom Natural Media Stroke
 # https://en.wikipedia.org/wiki/CorelDRAW
 0	string	=\xFF\xFF\x01\x00\x1D\x00CCustomNaturalMediaStrokeFile	Corel Custom Natural Media Stroke
-!:ext	npm2
+!:ext	npm
 
 
 # COREL Global Macro Storage
@@ -1684,7 +1662,7 @@
 # COREL PhotoPaint7 Tone Map File
 # https://web.archive.org/web/20060821212343/http://www.digital-fotofusion.co.uk/pi/archive/2005/08/photoimpact_tut.html
 0	string	COREL\ PhotoPaint7\ Tone\ Map\ File	COREL PhotoPaint7 Tone Map File
-!:ext	map3
+!:ext	map
 
 
 # COREL PhotoPaint8 Tone Curve File
@@ -1713,7 +1691,7 @@
 # http://justsolve.archiveteam.org/wiki/SHW_(Corel)
 0	string	RIFF
 >8	string	shw4LIST2	Corel SHOW V4 Show File
-!:ext	shw4
+!:ext	shw
 
 
 # Corel SHOW V5 File
@@ -1721,7 +1699,7 @@
 # http://justsolve.archiveteam.org/wiki/SHW_(Corel)
 0	string	 RIFF
 >8	 string	 shw5LIST2	Corel SHOW V5 File
-!:ext	shw5
+!:ext	shw
 
 
 # Corel SHOW V5 Player File
@@ -1735,7 +1713,7 @@
 # Corel Template Assistant File
 # https://wptoolbox.com/tips/UseOldProjects.html
 0	string	=\x02\0\0\0SDM\0	Corel Template Assistant File
-!:ext	ast2
+!:ext	ast
 
 
 # Corel Time Line Binary File
@@ -1772,7 +1750,7 @@
 # https://en.wikipedia.org/wiki/CorelDRAW
 0	string	RIFF
 >8	string	CDSTvrsn	CorelDraw V4 Template
-!:ext	cdt4
+!:ext	cdt
 
 
 # CorelTRACE Configuration File
@@ -1791,7 +1769,7 @@
 # https://cpc-emu.org/about.html
 # https://cpc-emu.org/docu_e.html
 0	string	MV\ -\ CPCEMU	CPCEMU Disk Image Format
-!:ext	cpcemu
+!:ext	dsk
 
 
 # Crack Art Image
@@ -1830,7 +1808,7 @@
 # http://fileformats.archiveteam.org/wiki/Crunchmania
 0	string	CrM2	Crunch Mania Compressed File
 0	string	Crm2	Crunch Mania Compressed File
-!:ext	crm2
+!:ext	crm
 
 
 # CRYO HNM6 Video
@@ -1850,14 +1828,14 @@
 # https://www.iucr.org/resources/cif/cif2
 # https://www.iucr.org/__data/assets/text_file/0009/112131/CIF2-ENBF.txt
 0	string	=#\\#CIF_2	Crystallographic Information File
-!:ext	cif2
+!:ext	cif
 
 
 # CryTek Game File
 # https://en.wikipedia.org/wiki/Crytek
 # http://gameextractor.sourceforge.net/program/archives.txt
 0	string	CryTek	CryTek Game File
-!:ext	cga
+!:ext	cga/cgf
 
 
 # Cyber Paint Sequence Format
@@ -1920,7 +1898,7 @@
 # https://telparia.com/fileFormatSamples/image/degasEliteIcon/
 # http://fileformats.archiveteam.org/wiki/DEGAS_Elite_icon
 0	string	=/*\ DEGAS	DEGAS Elite Icon
-!:ext	icn2
+!:ext	icn
 
 
 # DeHacked Patch File
@@ -1947,13 +1925,13 @@
 # https://www.exotica.org.uk/wiki/DeltaMusic
 0	string	ALL\x20\x00\x00	Delta Music Module
 3014	string	\x2eFNL\x00\x00	Delta Music Module
-!:ext	dm
+!:ext	dm/dm2
 
 
 # Delusion Module Format
 # http://fileformats.archiveteam.org/wiki/D-Lusion_Music_File
 0	string	DMF\x0E	Delusion Module Format
-!:ext	dmf3
+!:ext	dmf
 
 
 # Deluxepaint Animation
@@ -2000,7 +1978,7 @@
 # DeskMate Paint Image
 # http://fileformats.archiveteam.org/wiki/DeskMate_Paint
 0	string	=\x13PNT	DeskMate Paint Image
-!:ext	pnt2
+!:ext	pnt
 
 
 # DeskMate Song
@@ -2009,7 +1987,7 @@
 # https://comp.sys.tandy.narkive.com/WdLeBzvz/new-program-available-to-convert-and-play-deskmate-music-sng-files
 # https://www.thewire.co.uk/in-writing/columns/p=37191
 0	string	=\x0cSNG	DeskMate Song
-!:ext	sng3
+!:ext	sng
 
 
 # DeskMate Worksheet
@@ -2025,7 +2003,7 @@
 # https://telparia.com/fileFormatSamples/image/gfb/
 # http://fileformats.archiveteam.org/wiki/DeskPic
 0	string	GF25	DeskPic Image
-!:ext	gfb2
+!:ext	gfb
 
 
 # DfuSe File Format
@@ -2070,7 +2048,7 @@
 # DIET Compressed Data
 # http://justsolve.archiveteam.org/wiki/DIET_(compression)
 0	string	=\xb4L\xcd!\x9d\x89dl	DIET Compressed Data
-!:ext	sqz
+!:ext	sqz/trk
 
 
 # Digital Log Interchange Standard Format
@@ -2090,7 +2068,7 @@
 # Digital Sound Interface Kit RIFF Module
 # http://www.vgmpf.com/Wiki/index.php?title=DSM
 7	string	=\0DSMFSON	Digital Sound Interface Kit RIFF Module
-!:ext	dsm2
+!:ext	dsm
 
 
 # Digital Sound Studio Module
@@ -2108,20 +2086,13 @@
 # DIGPAK Audio Driver
 # http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/mxlibs/00index.html
 3	string	DIGPAK\x00	DIGPAK Audio Driver
-!:ext	digpak
+!:ext	com
 
 
 # Directwave Preset
 # https://www.image-line.com/fl-studio-learning/fl-studio-mobile-online-manual/html/plugins/FL%20Studio%20Mobile_Module_DirectWave.htm
 0	string	DwPr&	Directwave Preset
 !:ext	dwp
-
-
-# Disk Masher System compressed disk image
-# https://en.wikipedia.org/wiki/Disk_Masher_System
-0	string	DMS!	Disk Masher System compressed disk
-!:ext	dms
-
 
 # DiskDupe Disk Image
 # https://github.com/SergiyKolesnikov/ddi2raw/blob/master/ddi2raw.py
@@ -2137,7 +2108,7 @@
 # https://sites.google.com/a/copypro.com/copypro-inc/cd-dvd-duplicators/3-5-floppy-diskette-duplicator/diskdupe-support-guide
 # http://retro.icequake.net/dob/files/bleuge/diskdupe.5trial/DISKDUPE.TXT
 0	string	MSD\ Image\ Version\ 1	DiskDupe MSD Disk Image Version 5
-!:ext	ddi2
+!:ext	ddi
 
 
 # Disorder Tracker 2 Module
@@ -2169,7 +2140,7 @@
 # Doom 3 MD5 File
 # https://modwiki.dhewm3.org/MD5_(file_format)
 0	string	MD5Version\ 10	Doom 3 MD5 File
-!:ext	doom_md5
+!:ext	md5anim/md5mesh
 
 
 # Doom MUS Music File
@@ -2188,13 +2159,13 @@
 # Dream Station Module
 # http://www.audiosim.de/faq.html
 0	string	DSFmt1	Dream Station Module
-!:ext	dss2
+!:ext	dss
 
 
 # Dreamcast Sound Format
 # http://fileformats.archiveteam.org/wiki/DSF
 0	string	PSF\x12	Dreamcast Sound Format
-!:ext	dsf
+!:ext	minidsf
 
 
 # DreamForge Video
@@ -2231,7 +2202,7 @@
 0	string	DGU\x00\x01@\x00\xC8	DuneGraph Bitmap
 0	string	DGU\x01\x01@\x00\xC8	DuneGraph Bitmap
 0	string	DGU\x03\x01@\x00\xC8	DuneGraph Bitmap
-!:ext	dunegraph
+!:ext	dg1
 
 
 # Dustforce Map File
@@ -2239,7 +2210,6 @@
 # https://pythonhosted.org/dustmaker/_modules/dustmaker/MapWriter.html
 0	string	DF_LVL
 >16	string	DF_MTD	Dustforce Map File
-!:ext	dustforce
 
 
 # DXA Video File
@@ -2253,7 +2223,7 @@
 # Dynamic Publisher Font
 # http://fileformats.archiveteam.org/wiki/Dynamic_Publisher
 0	string	DYNAMIC\ PUBLISHER\ FONT\x00	Dynamic Publisher Font
-!:ext	fnt2
+!:ext	fnt
 
 
 # Dynamic Publisher Picture Screen
@@ -2264,7 +2234,7 @@
 
 # Dynamic Studio Professional Module
 0	string	DSm\x1A	Dynamic Studio Professional Module
-!:ext	dsm3
+!:ext	dsm
 
 
 # EA DAT TERF File
@@ -2301,14 +2271,14 @@
 # EA SSH FSH Image
 # https://wiki.xentax.com/index.php/EA_SSH_FSH_Image
 0	string	ShpF	EA SSH FSH Image
-!:ext	fsh2
+!:ext	fsh
 
 
 # EACA Colour Genie Virtual Tape Image
 # http://oldcomputers.dyndns.org/public/pub/rechner/eaca/colourgenie/cgenie.pdf
 # https://en.wikipedia.org/wiki/Colour_Genie
 0	string	Colour\ Genie\ -\ Virtual\ Tape\ File	EACA Colour Genie Virtual Tape Image
-!:ext	cas3
+!:ext	cas
 
 
 # EarAche Module
@@ -2321,7 +2291,7 @@
 # https://en.wikipedia.org/wiki/Earth_%26_Beyond
 # https://hwiegman.home.xs4all.nl/fileformats/game/archives.txt
 0	string	MIX1	Earth And Beyond Game Data
-!:ext	mix2
+!:ext	mix
 
 
 # ECAT PET Format
@@ -2329,21 +2299,21 @@
 # https://nipy.org/nibabel/reference/nibabel.ecat.html
 0	string	MATRIX
 >8	string	v	ECAT PET Format
-!:ext	ecat7
+!:ext	ecat
 
 
 # EDI Install Packed File EDI LZSSLib File
 # http://justsolve.archiveteam.org/wiki/EDI_LZSSLib
 # http://justsolve.archiveteam.org/wiki/EDI_Install_packed_file
 0	string	EDILZSS	EDI Install Packed File EDI LZSSLi
-!:ext	edi2
+!:ext	edi
 
 
 # EDSSpell Dictionary
 # https://torry.net/pages.php?id=276
 # http://www.onedomain.com/Components/EDSSpell/
 0	string	=\x01Copyright\ (c)\ 1996,\ Eminent\ Domain\ Software	EDSSpell Dictionary
-!:ext	dct3
+!:ext	dct
 
 
 # Eggpaint Bitmap
@@ -2373,7 +2343,7 @@
 0	string	MADm	Electronic Arts MAD Video
 0	string	MADk	Electronic Arts MAD Video
 0	string	MADe	Electronic Arts MAD Video
-!:ext	mad2
+!:ext	mad
 
 
 # Electronic Arts Game Archive
@@ -2438,14 +2408,14 @@
 # https://www.wikidata.org/wiki/Q82521476
 0	string	fap\x20	Ensoniq PARIS FAP PAF Format
 0	string	\ paf	Ensoniq PARIS FAP PAF Format
-!:ext	fap
+!:ext	fap/paf
 
 
 # ENVI Image File
 # https://www.harrisgeospatial.com/docs/enviimagefiles.html
 # https://www.harrisgeospatial.com/docs/enviheaderfiles.html
 0	string	ENVI\x0A	ENVI Image File
-!:ext	hdr2
+!:ext	hdr
 
 
 # Envision Publisher Document
@@ -2490,13 +2460,13 @@
 # http://fileformats.archiveteam.org/wiki/EDI_Install_archive
 # https://www.wikidata.org/wiki/Q105854853
 0	string	ARCV	Eschalon Setup ARCV Compressed Container
-!:ext	arcv
+!:ext	_00
 
 
 # ESP Archive Data
 # http://fileformats.archiveteam.org/wiki/ESP_(compressed_archive)
 0	string	ESP>	ESP Archive Data
-!:ext	esp2
+!:ext	esp
 
 
 # Esri Arcinfo Attribute File
@@ -2539,7 +2509,7 @@
 # F-PROT Virus Scanning Report
 # https://en.wikipedia.org/wiki/FRISK_Software_International
 0	string	Virus\ scanning\ report\ \ -\ 	F-PROT Virus Scanning Report
-!:ext	rpt4
+!:ext	rpt
 
 
 # Falcon3 Replay Video
@@ -2552,13 +2522,13 @@
 # https://winworldpc.com/product/family-origins-deluxe/50
 # http://www.graabek.com/fow/fofaq.html#Reference%20manual
 0	string	FOWIN_REPORT\x0C4	Family Origins Report v5.x
-!:ext	rpt5
+!:ext	rpt
 
 
 # FamiTracker Module
 # http://www.vgmpf.com/Wiki/index.php?title=FamiTracker
 0	string	FamiTracker\ Module	FamiTracker Module
-!:ext	ftm2
+!:ext	ftm
 
 
 # Fancy Font System Font File
@@ -2571,13 +2541,13 @@
 # https://telparia.com/fileFormatSamples/document/farallonReplica/
 # http://fileformats.archiveteam.org/wiki/Farallon_Replica
 0	string	Farallon\ Replica\ (TM)	Farallon Replica File
-!:ext	rpl2
+!:ext	rpl
 
 
 # FastCad for Windows Drawing
 # https://fastcad.com/infofc7.php
 0	string	FCW\ (FastCAD\ for\ Windows)	FastCad for Windows Drawing
-!:ext	fc
+!:ext	fc/fsc/fc7
 
 
 # Fax Cover Page Editor file
@@ -2781,13 +2751,12 @@
 # https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/mc-fpsewm/d73a1041-dfb1-41fc-b899-b4034b156b0f
 # https://www.google.com/books/edition/_/qqyb5pNPjYUC?hl=en&gbpv=1&pg=PA960&dq=%22FrontPage%22+%22vti_encoding%22
 0	string	vti_encoding:	FrontPage Server Extensions Configuration File
-!:ext	vti
 
 
 # Frostbit CAS Data Source
 # https://en.wikipedia.org/wiki/Frostbite_(game_engine)
 0	string	\xFA\xCE\x0F\xF0	Frostbit CAS Data Source
-!:ext	cas4
+!:ext	cas
 
 
 # Frostbite TOC File
@@ -2808,7 +2777,7 @@
 # http://fileformats.archiveteam.org/wiki/Funny_Paint
 0	string	=\0\x0a\xcf\xe2
 >6	string	\x0\xc8	Funny Paint Graphic File
-!:ext	fun2
+!:ext	fun
 
 
 # Funpaint 2 Bitmap
@@ -2881,14 +2850,14 @@
 !:ext	gml
 
 
-# Genbank Flat File Format 1.0
+# Genbank Flat File Format
 # https://www.ncbi.nlm.nih.gov/genbank/
 # https://www.ncbi.nlm.nih.gov/genbank/samplerecord/
 0	string	LOCUS\ \ \ \ \ \ \ 
 >10	search/150	DEFINITION
 >>15	search/150	ACCESSION
->>>100	search/150	ORGANISM	Genbank Flat File Format 1.0
-!:ext	gb2
+>>>100	search/150	ORGANISM	Genbank Flat File Format
+!:ext	gb
 
 
 # General Data Format for Biomedical Signals
@@ -2907,7 +2876,7 @@
 # Genus Graphics Library
 # http://fileformats.archiveteam.org/wiki/Genus_Graphics_Library
 2	string	Copyright\ (c)\ Genus\ Microprogramming,\ Inc.	Genus Graphics Library
-!:ext	gx
+!:ext	gxl
 
 
 # GEOID Grid File
@@ -2936,7 +2905,6 @@
 # https://github.com/bluewaysw/pcgeos/blob/9672d033f192a4fd5103103bf385cc8cd58c48b7/Tools/geodump/geos2.h#L35
 0	string	=\xc7E\xcfS\0\0\0	GeoWorks GEOS Data
 0	string	=\xc7E\xcfS\01\0\0	GeoWorks GEOS Data
-!:ext	geos
 
 
 # GFA BASIC 3
@@ -2953,7 +2921,7 @@
 
 # Gigawatt Studios Animation File
 0	string	=\x0d\x0aGigawatt\ Studios	Gigawatt Studios Animation File
-!:ext	cea2
+!:ext	cea
 
 
 # GIMP Dynamics File
@@ -2978,11 +2946,10 @@
 0	search/2000	\x28\x64\x65\x66\x69\x6E\x65\x20\x28\x73\x63\x72\x69\x70\x74\x2D\x66\x75	GIMP Script-Fu Script
 
 
-
 # GIMP Tool Preset Data
 # https://docs.gimp.org/2.10/en/tool-preset-editor.html
 0	string	=#\ GIMP\ tool\ preset\ file\x0A\x0A	GIMP Tool Preset Data
-!:ext	gtp2
+!:ext	gtp
 
 
 # GlueMon Module
@@ -2994,7 +2961,7 @@
 # GMSH MSH File
 # https://en.wikipedia.org/wiki/Gmsh
 0	string	=$MeshFor	GMSH MSH File
-!:ext	gmsh_mesh
+!:ext	msh
 
 
 # GNAT ADA Library Information File
@@ -3008,7 +2975,6 @@
 0	string	GTS!	GoatTracker Chiptune
 0	string	GTS2	GoatTracker Chiptune
 0	string	GTS5	GoatTracker Chiptune
-
 
 
 # Godot 4 Bit Graphics Bitmap
@@ -3030,7 +2996,7 @@
 # https://books.google.com/books?id=uDoEAAAAMBAJ&pg=PA115&lpg=PA115&dq=%22astound%22+awm&source=bl&ots=cWpM0whk2q&sig=ACfU3U2Xnl4TjEOiq-_nLwpb89u15hDMng&hl=en&sa=X&ved=2ahUKEwiTt7j7scP3AhWOkokEHU9ZCYQQ6AF6BAgWEAM#v=onepage&q=%22astound%22%20awm&f=false
 0	string	GDAW
 >8	string	VERS	Gold Disk Animation AWM Format
-!:ext	awm2
+!:ext	awm
 
 
 # Golgotha 3D Model Data
@@ -3061,7 +3027,7 @@
 0	string	=\xdd\xd9\xaaN	Grand Theft Auto Audio File
 0	string	=\xdd\xd1\xb2N	Grand Theft Auto Audio File
 0	string	=\xdd\xd1\xaaN	Grand Theft Auto Audio File
-!:ext	adf2
+!:ext	adf
 
 
 # Grand Theft Auto Collision File
@@ -3078,7 +3044,7 @@
 # https://gtamods.com/wiki/Texture_archive
 # https://www.wikidata.org/wiki/Q105849282
 0	string	RSC7	Grand Theft Auto Texture Dictionary
-!:ext	ytd
+!:ext	ytd/ydr
 
 
 # Grandstream Ringtone Format
@@ -3099,7 +3065,7 @@
 # Granny3D GR2 Format
 # https://github.com/rdw-archive/RagnarokFileFormats/blob/master/GR2.MD
 0	string	=\xb8g\xb0\xca\xf8m\xb1\x0f	Granny3D GR2 Format
-!:ext	gr2a
+!:ext	gr2
 
 
 # Graoumf Tracker Module
@@ -3107,8 +3073,7 @@
 # http://fileformats.archiveteam.org/wiki/Graoumf_Tracker_2_module
 0	string	GT2	Graoumf Tracker2 Module
 0	string	GTK	Graoumf Tracker Module
-!:ext	gt2
-
+!:ext	gt2/gtk
 
 # Graph2Font Bitmap
 # http://fileformats.archiveteam.org/wiki/Graph2Font
@@ -3145,7 +3110,7 @@
 # https://en.wikipedia.org/wiki/Grim_Fandango
 # https://ninjatoes.blogspot.com/2020/02/how-to-rip-some-pun-intended-manny-from.html
 0	string	FYEK	Grim Fandango Animation Key File
-!:ext	key2
+!:ext	key
 
 
 # Grim Fandango Colormap Palette
@@ -3161,14 +3126,14 @@
 0	string	iMUS
 >8	string	MAP
 >>16	string	FRMT	Grim Fandango IMC Music Format
-!:ext	imc
+!:ext	imu
 
 
 # Grim Fandango Texture File
 # https://en.wikipedia.org/wiki/Grim_Fandango
 # https://ninjatoes.blogspot.com/2020/02/how-to-rip-some-pun-intended-manny-from.html
 0	string	MAT\ 2	Grim Fandango Texture File
-!:ext	mat2
+!:ext	mat
 
 
 # GUEmap Document
@@ -3181,15 +3146,15 @@
 # https://en.wikipedia.org/wiki/Guitar_Pro
 # http://fileformats.archiveteam.org/wiki/Guitar_Pro_4
 0	string	BCFZ\x04	Guitar Pro Compresssed File
-!:ext	gpx2
+!:ext	gpx
 
 
-# Guitar Pro File Version 1
+# Guitar Pro File
 # https://en.wikipedia.org/wiki/Guitar_Pro
 # http://fileformats.archiveteam.org/wiki/Guitar_Pro_4
-0	string	\x19FICHIER\ GUITARE\ PRO	Guitar Pro File Version 1
-0	string	\x18FICHIER\ GUITAR\ PRO	Guitar Pro File Version 1
-!:ext	gtp
+0	string	\x19FICHIER\ GUITARE\ PRO	Guitar Pro File
+0	string	\x18FICHIER\ GUITAR\ PRO	Guitar Pro File
+!:ext	gtp/gp4
 
 
 # Gunpaint Image File
@@ -3207,7 +3172,7 @@
 # https://developer.valvesoftware.com/wiki/DEM_Format
 # https://www.wikidata.org/wiki/Q105855748
 0	string	HL2DEMO	Half Life 2 Demo File Format
-!:ext	dem2
+!:ext	dem
 
 
 # Half Life Demo File Format
@@ -3220,7 +3185,7 @@
 # Half Life Model
 # https://en.wikipedia.org/wiki/Half-Life_(video_game)
 0	string	IDST	Half Life Model
-!:ext	mdl4a
+!:ext	mdl
 
 
 # Hamamatsu Virtual Microscope Specimen
@@ -3245,7 +3210,7 @@
 # Harvard Graphics Symbol File
 # http://justsolve.archiveteam.org/wiki/Harvard_Graphics
 0	string	SMLC\x01\x00\x01\x00	Harvard Graphics Symbol File
-!:ext	syw
+!:ext	syw/sym
 
 
 # Hasselblad 3F Raw
@@ -3271,7 +3236,7 @@
 >12	string	\x00\x00\x00\x00hg19	HI C File
 0	string	HIC\x00\x08\x00\x00\x00
 >12	string	\x00\x00\x00\x00/dat	HI C File
-
+!:ext	hic
 
 
 # Hively Tracker Song 1 Module Data
@@ -3291,7 +3256,7 @@
 # https://en.wikipedia.org/wiki/HMMER
 # http://hmmer.org/
 0	string	HMMER	HMMER Format
-!:ext	hmmer
+!:ext	hmm
 
 
 # HSI JPEG
@@ -3304,7 +3269,7 @@
 # HSI Raw Raster Image Format
 # http://fileformats.archiveteam.org/wiki/HSI_Raw
 0	string	mhwanh	HSI Raw Raster Image Format
-!:ext	hsi
+!:ext	raw
 
 
 # Hudson Entertainment System Sound Format dump
@@ -3361,13 +3326,13 @@
 # IBM DisplayWrite 3 File
 # https://en.wikipedia.org/wiki/IBM_DisplayWrite
 0	string	=\x80\0\0\x09\ \0O{	IBM DisplayWrite 3 File
-!:ext	dw3
+!:ext	txt
 
 
 # IBM DisplayWrite 5 File
 # https://winworldpc.com/product/displaywrite/5
 0	string	\x80\x00\x00\x09\ \x00O{J]\x18\x00\x14`\x00\x00\x80\x00	IBM DisplayWrite 5 File
-!:ext	dwdoc
+!:ext	doc
 
 
 # IBM DisplayWrite DCA Text File
@@ -3385,7 +3350,7 @@
 # IBM OS 2 Trace Definition File
 # http://ftp.icm.edu.pl/packages/os2-fixes/warp4pl/xrom002/readme.dbg
 0	string	TDF\x00\x02\x00	IBM OS 2 Trace Definition File
-!:ext	tdf2
+!:ext	tdf
 
 
 # IBM OS 2 Trace Formatting File
@@ -3431,13 +3396,6 @@
 # https://unicode-org.github.io/icu/userguide/icu_data/
 0	string	=\x90\x00\xDA'\x14\x00\x00\x00\x00\x00\x02\x00Brk	ICU Rule Based Break Iterator Data
 !:ext	brk
-
-
-# id Software's DOOM Internal WAD
-# https://doomwiki.org/wiki/IWAD
-# https://www.gamers.org/docs/FAQ/DOOM.FAQ.Specs.Chapters.2.html
-0	string	IWAD	id Software's DOOM Internal WAD
-!:ext	iwad
 
 
 # IDL Binary Format Save File
@@ -3489,7 +3447,7 @@
 # https://www.cambridge.org/core/books/fundamentals-of-computer-vision/image-file-system-ifs-software/709E0052FCDD885160B9A8EB523392E9
 0	string	IFS
 >28 string	Ifs\ is\x00\x00great! Image File System Format
-!:ext	ifs2
+!:ext	ifs
 
 
 # ImageDisk Format
@@ -3510,8 +3468,7 @@
 # https://telparia.com/fileFormatSamples/image/imagic/
 # http://fileformats.archiveteam.org/wiki/Imagic_Film/Picture
 0	string	IMDC	Imagic Raster Graphic
-!:ext	ic1
-
+!:ext	ic1/ic3/dat
 
 # IMOD Binary File Format
 # https://bio3d.colorado.edu/imod/doc/binspec.html
@@ -3557,21 +3514,21 @@
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 0	string	BAM\ V1	Infinity Engine BAM Animation File
 0	string	BAM\ V2	Infinity Engine BAM Animation File
-!:ext	bam2
+!:ext	bam
 
 
 # Infinity Engine BAMC File
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/bam_v1.htm
 0	string	BAMCV1	Infinity Engine BAMC File
-!:ext	bamc
+!:ext	bam
 
 
 # Infinity Engine BIFC Version 1
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/bif_v1.htm
 0	string	BIF\ V1.0	Infinity Engine BIFC Version 1
-!:ext	cbf2
+!:ext	cbf
 
 
 # Infinity Engine BIFF Archive
@@ -3588,7 +3545,7 @@
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/chr_v2.2.htm
 0	string	CHR\ V1	Infinity Engine CHR Player File
 0	string	CHR\ V2	Infinity Engine CHR Player File
-!:ext	chr2
+!:ext	chr
 
 
 # Infinity Engine CHU File
@@ -3614,7 +3571,7 @@
 0	string	CRE\ V1	Infinity Engine Creature File
 0	string	CRE\ V2	Infinity Engine Creature File
 0	string	CRE\ V9	Infinity Engine Creature File
-!:ext	cre1
+!:ext	cre
 
 
 # Infinity Engine Dialog File
@@ -3636,7 +3593,7 @@
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v1.1.htm
 0	string	GAMEV2.	Infinity Engine Game Save File
 0	string	GAMEV1.	Infinity Engine Game Save File
-!:ext	gam2
+!:ext	gam
 
 
 # Infinity Engine Item File
@@ -3645,7 +3602,7 @@
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/itm_v2.0.htm
 0	string	ITM\ V2.	Infinity Engine Item File
 0	string	ITM\ V1	Infinity Engine Item File
-!:ext	itm2
+!:ext	itm
 
 
 # Infinity Engine Key File
@@ -3666,14 +3623,14 @@
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/mos_v1.htm
 0	string	MOSCV1	Infinity Engine MOSC File
-!:ext	mosc
+!:ext	mos
 
 
 # Infinity Engine Paperdoll File
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/plt_v1.htm
 0	string	PLT\ V1	Infinity Engine Paperdoll File
-!:ext	plt3
+!:ext	plt
 
 
 # Infinity Engine Projectile File
@@ -3694,7 +3651,7 @@
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 # https://gibberlings3.github.io/iesdp/file_formats/ie_formats/spl_v1.htm
 0	string	SPL\ V1	Infinity Engine Spell File Version
-!:ext	splv1
+!:ext	spl
 
 
 # Infinity Engine Store File
@@ -3744,7 +3701,7 @@
 # Infinity Engine World Map File
 # https://baldursgate.fandom.com/wiki/Infinity_Engine
 0	string	WMAPV1.0	Infinity Engine World Map File
-!:ext	wmp2
+!:ext	wmp
 
 
 # Infinity Ward Image File
@@ -3773,7 +3730,7 @@
 0	string	\x03\x00	
 >3	string	\x00\x00\x00\ \x00T\x00\x00\x00\x01\x00@\x00t\x00\x00\x00\x02\x00\x08\x00\xB4\x00\x00\x00\x11\x00.\x00\xBC\x00\x00\x00\x00\x80	Inset Systems Bitmap
 >3	string	\x00\x00\x00\ \x00\x94\x01\x00\x00\x01\x00@\x00\xB4\x01\x00\x00\x02\x00\x08\x00\xF4\x01\x00\x00\x11\x00.\x00\xFC\x01\x00\x00\x00\x80	Inset Systems Bitmap
-!:ext	pix3
+!:ext	pix
 
 
 # InShape IIM bitmap
@@ -3799,7 +3756,6 @@
 # https://en.wikipedia.org/wiki/Installer_VISE
 # https://www.wikidata.org/wiki/Q105852883
 0	string	SVCT	Installer VISE Mac Package
-!:ext	vice
 
 
 # Installshield Compiled Rules File
@@ -3858,7 +3814,7 @@
 # Inverse Frequency Sound Format
 # http://fileformats.archiveteam.org/wiki/Inverse_Frequency_Sound_format
 0	string	SND\x00	Inverse Frequency Sound Format
-!:ext	ifs
+!:ext	dn1
 
 
 # Iomega Buz Motion Jpeg
@@ -3870,7 +3826,7 @@
 # IONosphere Map EXchange Format
 # http://ftp.aiub.unibe.ch/ionex/draft/ionex11.pdf
 60	string	IONEX\ VERSION\ /\ TYPE	IONosphere Map EXchange Format
-!:ext	ionex
+!:ext	2li
 
 
 # iPaint Bitmap
@@ -3895,7 +3851,6 @@
 # Jack Nicklaus Ultimate Golf Course
 # https://en.wikipedia.org/wiki/Jack_Nicklaus%27_Unlimited_Golf_%26_Course_Design
 0	string	paM1	Jack Nicklaus Ultimate Golf Course
-!:ext	jnug
 
 
 # Janko Mrsic Flogel Module
@@ -3917,7 +3872,7 @@
 # https://en.wikipedia.org/wiki/PaintShop_Pro
 # https://www-filefacts-net.translate.goog/tr/sel-file-extension?_x_tr_sch=http&_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
 0	string	JASC\ Selection\ Mask\ File	JASC Selection Mask File
-!:ext	sel2
+!:ext	sel
 
 
 # Java Serialization Data
@@ -3929,7 +3884,6 @@
 # Java Time Zone Data File
 # https://answers.launchpad.net/ubuntu/+source/tzdata/+question/133922
 0	string	javazi\x00\x01	Java Time Zone Data File
-!:ext	javazi
 
 
 # JavaScript Flash Obfuscated
@@ -3980,7 +3934,7 @@
 # http://fileformats.archiveteam.org/wiki/Jeroen_Tel
 0	string	\x02\x39\x00\x01
 >10 string	Nux Jeroen Tel Module
-!:ext	jt2
+!:ext	jt
 
 
 # Jet Graphics Planner
@@ -3994,7 +3948,7 @@
 # https://forum.xentax.com/viewtopic.php?f=17&t=3901
 0	string	TCPMC	JetMoto and Twisted Metal 2 Game File
 0	string	DCPMC	JetMoto and Twisted Metal 2 Game File
-!:ext	dpc
+!:ext	dpc/tpc
 
 
 # Jigdo Download Template
@@ -4024,7 +3978,7 @@
 >0	search/200	##JCAMP-DX=	JCAMP Data Exchange Format
 0	search/20	##TITLE=
 >0	search/200	##JCAMPDX=	JCAMP Data Exchange Format
-!:ext	jcamp
+!:ext	dx/jcm
 
 
 # JPS Stereoscopic Image
@@ -4043,7 +3997,7 @@
 # Julia Data File HDF5
 # https://github.com/JuliaIO/JLD.jl/blob/master/doc/jld.md
 0	string	Julia\ data\ file\ (HDF5)	Julia Data File HDF5
-!:ext	jdl
+!:ext	jld
 
 
 # Jupiter Tesselation 3D Image
@@ -4063,13 +4017,12 @@
 # http://dnl-test.kaspersky-labs.com/ap2/diffs/
 0	string	DIFF
 >10	string	=\0\0\x02\0\x04\0	Kaspersky DIFF File
-!:ext	diff
 
 
 # Kaspersky Lab Key File
 # https://support.kaspersky.com/KESWin/11.2.0/en-us/127995.htm
 0	string	KLsw	Kaspersky Lab Key File
-!:ext	key3
+!:ext	key
 
 
 # Kaspersky Update File
@@ -4077,7 +4030,7 @@
 # https://www.hybrid-analysis.com/sample/81950e5a63098773d0a39952fe04aa497eafc2b752458b40511f28ae04b256ab/5af973547ca3e129b875771b
 # http://processchecker.com/file/ztuu_utility.exe.html
 0	string	SQZE	Kaspersky Update File
-!:ext	sqze
+!:ext	dat/xms
 
 
 # KDE Desktop Entry File
@@ -4140,7 +4093,6 @@
 # https://telparia.com/fileFormatSamples/music/krisChipTracker/
 # http://fileformats.archiveteam.org/wiki/KRIS_Packer_/_ChipTracker_module
 952	string	KRIS	KRIS Packer ChipTracker Module
-!:ext	kris
 
 
 # KwikDraw Drawing
@@ -4167,7 +4119,7 @@
 # Labels Unlimited Template
 # https://winworldpc.com/product/labels-unlimited/2x-win
 0	string	Labeler\ V2.0\ TPL	Labels Unlimited Template
-!:ext	tpl
+!:ext	tpl/org
 
 
 # LaTeX auxiliary file
@@ -4187,14 +4139,6 @@
 # http://www.bx.psu.edu/miller_lab/dist/lav_format.html
 0	string	=#:lav\x0Ad\ {\x0A\ \ "	LAV Format
 !:ext	lav
-
-
-# LBR Archive Data
-# http://fileformats.archiveteam.org/wiki/LBR
-# https://www.wikidata.org/wiki/Q6457314
-0	string	=\x00\ \ \ \ \ \ \ \ \ \ \ \x00\x00	LBR Archive Data
-!:ext	lbr2
-
 
 # LDraw File Format
 # https://www.ldraw.org/article/47
@@ -4256,7 +4200,7 @@
 # https://en.wikipedia.org/wiki/Lotus_1-2-3
 0	string	=\x00\x01\x40\x00\x44\x45\x42\x52\x40\x00
 >26 string	GRPH	Lotus 1-2-3 Graph
-!:ext	gph3
+!:ext	gph
 
 
 # Lotus 1-2-3 Worksheet 1-2-3 G
@@ -4284,7 +4228,7 @@
 # https://en.wikipedia.org/wiki/IBM_Lotus_Freelance_Graphics
 # https://www.roger-pearse.com/weblog/2015/03/31/more-archaeology-on-our-own-pcs/
 0	string	=\x07\0gwtree	Lotus Freelance Graphics Drawing 1
-!:ext	drw2
+!:ext	drw
 
 
 # Lotus Freelance Portfolio
@@ -4315,7 +4259,7 @@
 0	string	=\x9a\x9f\xaa\x11\x01\0	Lotus Organiser Paper Layout Definition
 0	string	=\x9a\x9f\xaa\x11\x02\0	Lotus Organiser Paper Layout Definition
 0	string	=\x9a\x9f\xaa\x11\x03\0	Lotus Organiser Paper Layout Definition
-!:ext	plt2
+!:ext	plt
 
 
 # Lotus Organiser Report
@@ -4333,7 +4277,7 @@
 # Lotus ScreenCam Video
 # https://en.wikipedia.org/wiki/Screencam
 0	string	=\x80SCMOVv	Lotus ScreenCam Video
-!:ext	scm2
+!:ext	scm
 
 
 # Lotus Smart Icon
@@ -4360,13 +4304,13 @@
 
 # Lotus Word Pro SmartMaster File
 0	string	WordPro\x00\x00\x00\x00\x00\x00	Lotus Word Pro SmartMaster File
-!:ext	mwp
+!:ext	mwp/lwp
 
 
 # LP Format
 0	search/100	\ LP\ format
 >-50	search/50	End	LP Format
-
+!:ext	lp
 
 
 # LucasArts BiNary Archive Format
@@ -4418,7 +4362,6 @@
 # Maestro Music File
 # http://www.riscos.com/support/developers/prm/fileformats.html
 0	string	Maestro\x0a	Maestro Music File
-!:ext	maestro
 
 
 # Multiple Alignment Format
@@ -4430,7 +4373,7 @@
 # Magnetic Pages
 # https://www.amiga-stuff.com/pd/pdsoftv.html
 0	string	MPARTICLE	Magnetic Pages
-!:ext	pp2
+!:ext	pp
 
 
 # Malz and Kassner TVG4 CAD File
@@ -4469,7 +4412,7 @@
 # MapInfo Map Data
 # https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro
 0	string	=\0\x0a\x0e\x15\x0e\x16\x1b\xa2	MapInfo Map Data
-!:ext	map4
+!:ext	map
 
 
 # Maptech Bsb Documentation File
@@ -4480,7 +4423,7 @@
 0	search/1800/b	CED/
 >0	search/1800/b	NTM/
 >>0	search/1800/b	VER/	Maptech Bsb Documentation File
-!:ext	bsb
+!:ext	bsb/kap
 
 
 # Mark Cooksey Module
@@ -4499,13 +4442,13 @@
 # MatchWare Medi8or Version 3 Project File
 # http://www.matchware.net/en/products/mediator/productinfo/exp_highlights.htm
 0	string	MatchWare\ Medi8or\ Version\ 3	MatchWare Medi8or Version 3 Project File
-!:ext	mm8_3
+!:ext	mmd8
 
 
 # MatchWare Mediator Version 6 Project File
 # http://www.matchware.net/en/products/mediator/productinfo/exp_highlights.htm
 0	string	\x4A\x53\x4F\x53\x20\x57\xBB\x7B\x42\xCF\xCF\x11\xA7\x99\x44\x45\x53\x54\x00\x00\x00\x01\x53\x4F\x53\x20\x53\x74\x61\x6E\x64\x61\x72\x64\x20\x66\x69\x6C\x65\x73\x79\x73\x74\x65\x6D\x20\x31\x2E\x30\x00\x00\x00\x00\x00\x4D\x61\x74\x63\x68\x57	MatchWare Mediator Version 6 Project File
-!:ext	mm8_6
+!:ext	md8
 
 
 # Mathcad Document
@@ -4518,7 +4461,7 @@
 # https://en.wikipedia.org/wiki/Mathcad
 # https://neuron.eng.wayne.edu/auth/ece4330/mathcad/mathcad_user_guide.pdf
 0	string	=\x11Mathsof	Mathsoft Colormap
-!:ext	cmp2
+!:ext	cmp
 
 
 # Matrix Market Exchange Format
@@ -4578,14 +4521,14 @@
 # MDCD Archive Data
 # http://fileformats.archiveteam.org/wiki/MDCD
 0	string	MDmd	MDCD Archive Data
-!:ext	md
+!:ext	til
 
 
 # Medal Of Honor Pacific Assult Game Data Archive
 # https://en.wikipedia.org/wiki/Medal_of_Honor:_Pacific_Assault
 # http://gameextractor.sourceforge.net/program/archives.txt
 0	string	MOPA	Medal Of Honor Pacific Assult Game
-!:ext	rez2
+!:ext	rez
 
 
 # Medley Sound Module
@@ -4629,7 +4572,7 @@
 # https://en.wikipedia.org/wiki/Corel_Designer
 0	string	\x01\xFF\x02\x04\x03\x01	Micrografx Designer
 0	string	\x01\xFF\x02\x04\x03\x02	Micrografx Designer
-!:ext	drw3
+!:ext	drw
 
 
 # Micrografx Icon
@@ -4649,7 +4592,7 @@
 # https://forums.civfanatics.com/threads/colonization-picture-viewer.256665/
 # https://github.com/institution/mpskit
 0	string	MADSPACK\ 2.0	Microprose MADSPACK Font File
-!:ext	madspack
+!:ext	ff
 
 
 # Microsoft Bob Actor Character File
@@ -4671,7 +4614,7 @@
 # http://www.mermeliz.com/phoenix-online/Nexus_21/index.htm
 # http://mermeliz.com/crazehare/index.htm
 0	string	=\x81\x81\x01\x00\x02\x00\x07\x01\x04\x00	Microsoft Chat 2.5 Character
-!:ext	avb2
+!:ext	avb
 
 
 # Microsoft Chat Character
@@ -4687,7 +4630,7 @@
 # https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/122973
 # https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/121511
 0	string	\x01\x01\xFF\xE0\xF5\x05Copyright(c)\ 1992-1994,\ Microsoft\ Corp	Microsoft Clipart Index
-!:ext	idx2
+!:ext	idx
 
 
 # Microsoft Cue Card
@@ -4702,7 +4645,7 @@
 # https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/196812
 0	string	RIFF
 >8	string	AASYstyl	Microsoft Custom Soundtrack Music File
-!:ext	sty2
+!:ext	sty
 
 
 # Microsoft Developer Studio Generated Dependency File
@@ -4721,7 +4664,7 @@
 # https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 # https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160
 0	string	=//Microsoft\ Developer\ Studio\ generated\ resource\ script.	Microsoft Developer Studio Generated Resource Script
-!:ext	rc3
+!:ext	rc
 
 
 # Microsoft Developer Studio Project File
@@ -4746,7 +4689,7 @@
 >8	string	bzip	Microsoft Direct3D Object
 0	string	xof\ 
 >8	string	tzip	Microsoft Direct3D Object
-!:ext	x2
+!:ext	x
 
 
 # Microsoft eMbedded Visual Tools Workspace File
@@ -4765,8 +4708,7 @@
 
 # Microsoft Extensible Application Markup Language
 0	search/600	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"	Microsoft Extensible Application Markup Language
-
-
+!:ext	xaml
 
 # Microsoft FrontPage Theme Pack
 # https://en.wikipedia.org/wiki/Microsoft_FrontPage
@@ -4809,7 +4751,7 @@
 # https://en.wikipedia.org/wiki/Multiplan
 0	string	\x09\x00\x04\x00@\x01\x10\x00B\x00\x02\x00\xB5\x01f\x00\x1B\x00\x00\x00	Microsoft Multiplan
 0	string	\x09\x00\x04\x00@\x01\x10\x00B\x00\x02\x00\x00\x00f\x00\x1B\x00\x00\x00	Microsoft Multiplan
-!:ext	mod2
+!:ext	mod
 
 
 # Microsoft Office Answer Wizard Index
@@ -4819,7 +4761,7 @@
 0	string	\x1E\x01\x08\x00\x00\x00\x34\x0C	Microsoft Office Answer Wizard Index
 0	string	\x8A\x01\x09\x00\x00\x00\xE1\x08	Microsoft Office Answer Wizard Index
 0	string	\x8A\x01\x0A\x00\x00\x00\xE1\x08	Microsoft Office Answer Wizard Index
-!:ext	aw3
+!:ext	aw
 
 
 # Microsoft Office Assistant Preview
@@ -4866,7 +4808,7 @@
 # https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 # https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160
 0	string	=//Microsoft\ Visual\ C++\ generated\ resource\ script.\x0D\x0A//	Microsoft Visual C++ Generated Resource Script
-!:ext	rc4
+!:ext	rc
 
 
 # Microsoft Visual C++ User Generated Resource
@@ -4874,7 +4816,7 @@
 # https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160
 # https://docs.microsoft.com/en-us/cpp/mfc/tn035-using-multiple-resource-files-and-header-files-with-visual-cpp?view=msvc-160
 0	search/200	resources\ Microsoft\ Visual\ C++\ does\ not\ edit\ directly	Microsoft Visual C++ User Generated Resource
-!:ext	rc
+!:ext	rc2
 
 
 # Microsoft Word For Dos Glossary
@@ -4893,7 +4835,7 @@
 # https://en.wikipedia.org/wiki/Microsoft_Word
 # http://toastytech.com/guis/word115.html
 0	string	1\xBE\x02\x00\x00\xAB\x00\x00\x00\x00\x00\x00\x00\x00	Microsoft Word For Dos Style Sheet
-!:ext	sty3
+!:ext	sty
 
 
 # Microsoft Works Database for Windows 2.0
@@ -4916,7 +4858,7 @@
 # MIDPAK Audio Driver
 # http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/mxlibs/00index.html
 3	string	MIDPAK	MIDPAK Audio Driver
-!:ext	midpak
+!:ext	com
 
 
 # Mig Graphic
@@ -4944,7 +4886,7 @@
 # https://www.vogons.org/viewtopic.php?t=5217
 # https://hwiegman.home.xs4all.nl/fileformats/mdi/Mss.h
 0	string	AIL3DIG\x1A	Miles AIL DOS Audio Drivers
-!:ext	dig2
+!:ext	dig
 
 
 # Miles Sound System Real Mode Drivers
@@ -4965,7 +4907,7 @@
 # https://github.com/mitsuba-renderer/mitsuba
 # http://mitsuba-renderer.org/releases/current/documentation_lowres.pdf
 0	string	=\x1C\x04\x04\x00x\x9C	Mitsuba File Format
-!:ext	mitsuba
+!:ext	serialized
 
 
 # Miva Compiled Script
@@ -4986,7 +4928,7 @@
 # Mobile Sound Builder Session Document
 # https://web.archive.org/web/20060311051228mp_/http://www.beatnik.com/pdf_files/msb_datasheet.pdf
 0	string	MSB_2.00	Mobile Sound Builder Session Document
-!:ext	msb2
+!:ext	msb
 
 
 # Modified Maximum Method Digisonde Portable Sounder File
@@ -4994,7 +4936,7 @@
 0	string	\x09\x3C\x00
 >16	string	\x04\x02\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x01
 >>45 string	\x01\x04\x01\x0D\x07\x04\x03\x04\x00\x00	Modified Maximum Method Digisonde Portable Sounder File
-!:ext	mmm2
+!:ext	mmm
 
 
 # Modo 3D Model
@@ -5014,13 +4956,12 @@
 # MorpheusML Format
 # https://morpheus.gitlab.io/
 0	search/200	=<MorpheusModel	MorpheusML Format
-!:ext	morpheusml
+!:ext	xml
 
 
 # MS Compress Archive Data QBasic Variant
 # https://www.cabextract.org.uk/libmspack/doc/szdd_kwaj_format.html
 0	string	SZ\ \x88\xF0'3\xD1	MS Compress Archive Data QBasic Variant
-!:ext	sz
 
 
 # MS Visual C++ Precompiled Header
@@ -5056,7 +4997,7 @@
 # Multiartist Bitmap
 # http://fileformats.archiveteam.org/wiki/MultiArtist
 0	string	MGH\x01	Multiartist Bitmap
-!:ext	mg
+!:ext	mg1/mg2/mg3/mg4/mg8
 
 
 # MultiSim Design Document
@@ -5111,7 +5052,7 @@
 # https://geodesy.noaa.gov/library/pdfs/NOAA_TR_NOS_NGS_0063.pdf
 # https://www.ngs.noaa.gov/PC_PROD/NADCON/Readme.htm
 0	string	NADCON\ EXTRACTED\ REGION\ \ \ \ \ \ \ \ \x20	NADCON los las Grid Format
-!:ext	los
+!:ext	los/las
 
 
 # NASA SPICE BC Format
@@ -5123,21 +5064,20 @@
 # NASA SPICE SPK File
 # https://library.nrao.edu/public/memos/ovlbi/OVLBI_037.pdf
 0	string	NAIF/DAF	NASA SPICE SPK File
-!:ext	bsp4
+!:ext	bsp
 
 
 # NASCAR Racing Car Data
 # https://en.wikipedia.org/wiki/NASCAR_Racing_2
 1	string	RAC
 >12	string	OFNI	NASCAR Racing Car Data
-!:ext	car3
-
+!:ext	car/trk
 
 # NATO Secondary Imagery Format
 # https://gwg.nga.mil/ntb/baseline/docs/NSIF/4545_ed1_amd1.pdf
 # https://standards.globalspec.com/std/1608245/STANAG%204545
 0	string	NSIF01.0	NATO Secondary Imagery Format
-!:ext	nsf2
+!:ext	nsf
 
 
 # Navitel Navigator Map
@@ -5145,7 +5085,6 @@
 # https://navitel.com/en/downloads/demo
 0	string	GNM3
 >24 string	NIDX	Navitel Navigator Map
-!:ext	nm7
 
 
 # Need for Kill Map File
@@ -5164,13 +5103,13 @@
 # NeoPaint Palette File
 # https://en.wikipedia.org/wiki/NeoPaint
 0	string	NeoPaint\ Palette\ File	NeoPaint Palette File
-!:ext	pal8
+!:ext	pal
 
 
 # NeoPaint Printer Driver
 # https://en.wikipedia.org/wiki/NeoPaint
 0	string	=\x90\xcaNeoPai	NeoPaint Printer Driver
-!:ext	prd2
+!:ext	prd
 
 
 # Nerdtracker II Module
@@ -5187,20 +5126,20 @@
 # Netimmerse File Format
 # https://fallout.fandom.com/wiki/NIF_file
 0	string	NetImmerse\ File\ Format	Netimmerse File Format
-!:ext	nif2
+!:ext	nif
 
 
 # NetWare Message File
 # https://en.wikipedia.org/wiki/NetWare
 0	string	NetWare\ Message\ File	NetWare Message File
-!:ext	msg3
+!:ext	msg
 
 
 # NetWare Unicode Rule Table File
 # https://en.wikipedia.org/wiki/NetWare
 # http://www.novell.com/documentation/developer/clib/?page=/documentation/developer//clib/ucod_enu/data/hai61j4m.html
 0	string	NetWare\ Unicode\ Rule\ Table\ File	NetWare Unicode Rule Table File
-!:ext	netware
+!:ext	001
 
 
 # Neutral ASCII File Format
@@ -5231,7 +5170,7 @@
 # https://www.microscope.healthcare.nikon.com/products/software/nis-elements
 # https://docs.openmicroscopy.org/bio-formats/5.9.2/formats/nikon-nis-elements-nd2.html
 16	string	ND2\ FILE\ SIGNATURE\ CHUNK	Nikon NIS Elements ND2 Format
-!:ext	nd2
+!:ext	nd
 
 
 # Nintendo Gameboy Sound System GBR Dump
@@ -5276,7 +5215,7 @@
 # Nokia Logo Manager Bitmap
 # http://fileformats.archiveteam.org/wiki/Nokia_Logo_Manager_bitmap
 0	string	NLM\ \x01\x00\x00H\x0E\x01	Nokia Logo Manager Bitmap
-!:ext	nlm2
+!:ext	nlm
 
 
 # Nokia Operator Logo
@@ -5305,7 +5244,7 @@
 # https://www.nordkeyboards.com/sites/default/files/files/downloads/manuals/nord-modular-G2/Nord%20Modular%20G2%20English%20User%20Manual%20v1.4%20Edition%201.4x.pdf
 0	string	Version=Nord\ Modular\ G2\ File\ Format
 >44 string	Patch	Nord Modular G2 Patch File
-!:ext	pch3
+!:ext	pch
 
 
 # Nord Modular G2 Performance File
@@ -5342,7 +5281,7 @@
 # Novell 16 bit LAN Driver Installer Data
 # http://www.novell.com/documentation/developer/lancomp/odi_supp/install.pdf
 0	string	InS_StArT	Novell 16 bit LAN Driver Installer
-!:ext	ins3
+!:ext	ins
 
 
 # NovoTrade Packer Module
@@ -5356,7 +5295,7 @@
 # NoX Map Format
 # http://noxcommunity.com/
 0	string	1#_a\xf4\xe3\x1a\xa0	NoX Map Format
-!:ext	map7
+!:ext	map
 
 
 # NPack File
@@ -5364,14 +5303,13 @@
 # https://telparia.com/fileFormatSamples/archive/npack/
 # http://fileformats.archiveteam.org/wiki/NPac
 0	string	MSTSM	NPack File
-!:ext	npack
 
 
 # NVIDIA Material Definition Language File
 # https://web.archive.org/web/20210226032026/https://developer.download.nvidia.com/designworks/mdl-sdk/secure/MDL_spec_1.6.1_16Dec2019.pdf?80KO87K-nWMtWzyPqGHPw61uxa8G31ovauU02s3Cy6OiPaq3wlBknZCJkwvQn50cwargBHDocvLO0tg3alta0bLFQRcAD2I4iDP0BNdKHICUt0mMT5I3QKVwbYzpiFFmum9sOqnepyHZo9dO1JmNBSQNkhPzOA
 0	string	mdl\ 1.
 >6	string	;	NVIDIA Material Definition Language File
-!:ext	mdl5
+!:ext	mdl
 
 
 # NVIDIA MBSDF File
@@ -5390,7 +5328,7 @@
 # https://en.wikipedia.org/wiki/Ocean_Data_View
 # http://acces.ens-lyon.fr/acces/thematiques/paleo/systemclim/global/odv/data/odv4Guide.pdf
 0	string	ODV4.0	o4x Exchange Format
-!:ext	o4x
+!:ext	var
 
 
 # Object Research Systems Object Format
@@ -5460,7 +5398,7 @@
 # http://justsolve.archiveteam.org/wiki/OMF_Interchange
 # https://en.wikipedia.org/wiki/Open_Media_Framework_Interchange
 5	string	omfi:data	Open Media Framework Interchange File
-!:ext	omf2
+!:ext	omf
 
 
 # Openglad Scenario File
@@ -5527,13 +5465,13 @@
 # Origin Project Format
 0	string	CPYA\ 4.
 >10	string	\x20\x23\x0A	Origin Project Format
-!:ext	opj2
+!:ext	opj
 
 
 # OS 2 Installation Package Archive
 # http://www.os2fan2.com/pcdos.pdf
 0	string	=\xa5\x96\xfe\xff	OS 2 Installation Package Archive
-!:ext	pkg3
+!:ext	pkg
 
 
 # OSTree Archive File
@@ -5542,7 +5480,6 @@
 # https://www.mail-archive.com/elfutils-devel@sourceware.org/msg03779.html
 0	string	=\x00\x00\x00\x48\x00\x00\x00\x00\x00\x00\x00\x00
 >16	string	=\0\0\0\0	OSTree Archive File
-!:ext	filez
 
 
 # OSU Beatmap File
@@ -5555,24 +5492,23 @@
 # http://www.oziexplorer.com/au/
 # https://www.oziexplorer4.com/eng/help/map_file_format.html
 0	string	OziExplorer\ Map\ Data\ File\ Versio	OziExplorer Map Data File
-!:ext	map2
+!:ext	map
 
 
 # P-Screen COM Screen File
 # http://justsolve.archiveteam.org/wiki/P-Screen_COM_Screen
 9	string	Pro~Formance\ Screen\ Design	P-Screen COM Screen File
-!:ext	com2
+!:ext	com
 
 
 # Pablopaint Raster Image
 0	string	PABLO\ PACKED\ PICTURE:\ Groupe\ CDND\ \x0d\x0a	Pablopaint Raster Image
-!:ext	pa3
+!:ext	pa3/ppp
 
 
 # Pack Ice Compressed Data
 # http://fileformats.archiveteam.org/wiki/Pack-Ice
 0	string	ICE!	Pack Ice Compressed Data
-!:ext	pi9
 
 
 # PageMaker TableEditor Graphics
@@ -5590,7 +5526,7 @@
 # PaintBBS NEO Format
 # https://paintbbs.sakura.ne.jp/
 0	string	NEO\x20	PaintBBS NEO Format
-!:ext	pch2
+!:ext	pch
 
 
 # Paintpro Bitmap
@@ -5625,14 +5561,14 @@
 # https://en.wikipedia.org/wiki/Palm_OS
 # http://mobile.eric-poncet.com/palm/tutorial/db.html
 60	string	Rsrc	PalmOS Resource File
-!:ext	prcrsrc
+!:ext	prc
 
 
 # PalmOS System Extension
 # https://en.wikipedia.org/wiki/Palm_OS
 # http://mobile.eric-poncet.com/palm/tutorial/db.html
 60	string	HACK	PalmOS System Extension
-!:ext	prchack
+!:ext	prc
 
 
 # Pasti Floppy Disk Image
@@ -5644,21 +5580,21 @@
 # PC File Database
 # https://en.wikipedia.org/wiki/PC-File
 0	string	PCF:dB	PC File Database
-!:ext	rep2
+!:ext	rep
 
 
 # PC Outline Text Outliner File
 # https://telparia.com/fileFormatSamples/document/pco/
 # http://fileformats.archiveteam.org/wiki/PC-Outline
 33	string	\x4F\x17\x50\x17\x00\x00\x02\x02\x4D\x15\x1E\x1F\x41\x3A\x5C	PC Outline Text Outliner File
-!:ext	pco
+!:ext	pco/bbo
 
 
 # PC Storyboard Graphic
 # https://telparia.com/fileFormatSamples/image/ibmStoryboardPic/
 # http://fileformats.archiveteam.org/wiki/Storyboard_PIC/CAP
 0	string	EP_CAP	PC Storyboard Graphic
-!:ext	epcap
+!:ext	pic
 
 
 # PC88_PC9801 Sound Logs Rip
@@ -5680,7 +5616,7 @@
 # http://www.pcstitch.com/PCS10/PCStitch10.aspx
 0	string	PCStitch\ 5\ Pattern\ File	PCStitch Pattern File
 0	string	PCStitch\ 6\ Pattern\ File	PCStitch Pattern File
-!:ext	pat4
+!:ext	pat
 
 
 # PCX Library
@@ -5688,7 +5624,7 @@
 # https://telparia.com/fileFormatSamples/archive/pcxLib/POKER.PCL
 # http://fileformats.archiveteam.org/wiki/PCX_Library
 0	string	pcxLib	PCX Library
-!:ext	pcx
+!:ext	pcl/wbl
 
 
 # Perfect Zx Tape Image
@@ -5714,7 +5650,7 @@
 # http://fileformats.archiveteam.org/wiki/PGX_(JPEG_2000)
 0	string	PG\ ML	PGX JPEG 2000
 0	string	PG\ MM	PGX JPEG 2000
-!:ext	pgx2
+!:ext	pgx
 
 
 # PhotoChrome Raster Image
@@ -5737,7 +5673,7 @@
 # https://telparia.com/fileFormatSamples/image/photoStudio/
 # http://fileformats.archiveteam.org/wiki/PSF_(PhotoStudio)
 0	string	FSPA	Photostudio Raster Image
-!:ext	psf2
+!:ext	psf
 
 
 # Piecewise Constant Image Model
@@ -5777,13 +5713,13 @@
 # https://www.ibm.com/docs/en/zvse/6.2?topic=zvse-generating-dh-parameters
 # https://www.openssl.org/docs/man1.0.2/man1/dhparam.html
 0	string	=-----BEGIN\ PKCS7----	PKCS7 Certificate
-!:ext	pem6
+!:ext	pem
 
 
 # Planetary Data System Version 3
 # http://fileformats.archiveteam.org/wiki/PDS
 0	string	PDS_VERSION_ID	Planetary Data System Version 3
-!:ext	pdsv3
+!:ext	imq
 
 
 # PlayerPro Module
@@ -5810,12 +5746,6 @@
 0	string	l\x1B\x01	PLINK Binary Biallelic Genotype Table
 !:ext	bed
 
-
-# PMarc Compressed Archive
-3	string	pm2	PMarc Compressed Archive
-!:ext	pma
-
-
 # PMDraw Drawing Presentation
 # http://fileformats.archiveteam.org/wiki/PmDraw
 # https://danielsays.com/ssg-os2-pmd14.html
@@ -5827,7 +5757,7 @@
 # https://telparia.com/fileFormatSamples/image/pmd/
 # http://fileformats.archiveteam.org/wiki/PMG_Designer
 0	string	=\xf0\xed\xe4	PMG Designer
-!:ext	pmd2
+!:ext	pmd
 
 
 # PMView Filter
@@ -5860,7 +5790,6 @@
 # https://www.opsdash.com/blog/postgresql-backup-restore.html
 # https://www.postgresql.org/message-id/CAM2%2B6%3DW7QWPe_yuTOKPSJj5%2B3deO9%3DKg6ZHAQV1iv%3D3-ZM529Q%40mail.gmail.com
 0	string	PGDMP\x01	PostgreSQL Custom Format Dump
-!:ext	dump
 
 
 # Power Builder Library
@@ -5910,7 +5839,6 @@
 0	string	K9z1\x03	Prime95 Mersenne Prime File
 0	string	K9z1\x06	Prime95 Mersenne Prime File
 0	string	K9z1\x07	Prime95 Mersenne Prime File
-!:ext	k9z1
 
 
 # Prince of Persia MININIM Replay File
@@ -5931,19 +5859,19 @@
 # Prism Paint Bitmap
 # http://fileformats.archiveteam.org/wiki/Prism_Paint
 0	string	PNT\x00	Prism Paint Bitmap
-!:ext	pnt
+!:ext	pnt/tpi
 
 
 # Pro Evolution Soccer Model
 # https://implyingrigged.info/wiki/Pro_Evolution_Soccer_2016/zlib
 0	string	=\0\x10\x01WESYS	Pro Evolution Soccer Model
-!:ext	model
+!:ext	model/hkx
 
 
 # Pro Trekkr 2.0 Module
 # http://code.google.com/p/protrekkr/wiki/introduction
 0	string	PROTREK	Pro Trekkr 2.0 Module
-!:ext	ptk2
+!:ext	ptk
 
 
 # Pro Trekkr Module
@@ -5963,7 +5891,7 @@
 # Propellerheads Reason NN19 Sampler Patch
 # https://en.wikipedia.org/wiki/Reason_Studios
 0	string	Propellerheads\ Reason\ NN19\ Sampl	Propellerheads Reason NN19 Sampler
-!:ext	smp2
+!:ext	smp
 
 
 # Propellerheads ReFill File
@@ -5975,7 +5903,7 @@
 # Prorunner Module
 # http://fileformats.archiveteam.org/wiki/Prorunner
 0	string	SNT!	Prorunner Module
-!:ext	pru2
+!:ext	pru
 
 
 # ProShape Drawing
@@ -5988,7 +5916,7 @@
 # Protracker Module Sound Data 4 channel
 # http://fileformats.archiveteam.org/wiki/Amiga_Module
 1080	string	M!K!	Protracker Module Sound Data 4 channel
-!:ext	modpro4
+!:ext	mod
 
 
 # Psion Object OPL Output
@@ -6000,7 +5928,7 @@
 # Psion Series 3 Bitmap
 # http://fileformats.archiveteam.org/wiki/Psion_PIC
 0	string	PIC\xdc00	Psion Series 3 Bitmap
-!:ext	pic2
+!:ext	pic
 
 
 # Psion Series 3 Word Document
@@ -6028,7 +5956,7 @@
 # http://fileformats.archiveteam.org/wiki/PUT
 2	string	=-lZ1	PUT Compresssed File
 2	string	=-lZ5	PUT Compresssed File
-!:ext	put
+!:ext	ins
 
 
 # PVCS Version Manager Logfile
@@ -6082,7 +6010,7 @@
 # Quake 1 MDL File
 # http://tfc.duke.free.fr/coding/mdl-specs-en.html
 0	string	IDPO	Quake 1 MDL File
-!:ext	idpo
+!:ext	mdl
 
 
 # Quake III MD3 File
@@ -6094,13 +6022,13 @@
 # Quantum compressed archive
 # https://en.wikipedia.org/wiki/Quantum_compression
 0	string	DS\x00\x16	Quantum compressed archive
-!:ext	q2
+!:ext	pak
 
 
 # Quattro Pro Clip Art
 # https://www.file-extensions.org/clp-file-extension-corel-quattro-pro-clip-art
 0	string	RRTL	Quattro Pro Clip Art
-!:ext	clp2
+!:ext	clp
 
 
 # Quattro Pro Sound
@@ -6114,14 +6042,13 @@
 # https://github.com/Quaver/Quaver.API/blob/87c428ea9cd4229c5334b23c680cb4311546d6b7/Quaver.API/Replays/Replay.cs#L22
 0	string	=\x050.0.1\x20	Quaver Score Replay File
 0	string	=\x050.0.2\x20	Quaver Score Replay File
-!:ext	quaver
 
 
 # Quest Interactive Fiction File
 # http://fileformats.archiveteam.org/wiki/Quest_1-4
 0	string	QCGF002\x00\x08\x01\x0A	Quest Interactive Fiction File
 0	string	QCGF001\x00\x08\x01\x0A	Quest Interactive Fiction File
-!:ext	cas2
+!:ext	cas
 
 
 # Quick Release Sector Transfer
@@ -6174,14 +6101,14 @@
 # https://qlwiki.qlforum.co.uk/doku.php?id=qlwiki:Quill
 # https://qlwiki.qlforum.co.uk/doku.php?id=qlwiki:archive
 2	string	vrm1dbf	Quill Archive Format
-!:ext	dbf2
+!:ext	dbf
 
 
 # Quill Document Format
 # https://qlwiki.qlforum.co.uk/doku.php?id=qlwiki:Quill
 # http://swensont.epizy.com/Quill.pdf?i=1
 2	string	vrm1qdf	Quill Document Format
-!:ext	qdf
+!:ext	doc
 
 
 # Quite OK Image Format
@@ -6195,7 +6122,6 @@
 # https://rdata.readthedocs.io/en/latest/_modules/rdata/parser/_parser.html
 0	string	RDX2\x0AX\x0A\x00\x00\x00\x02\x00\x03\x02\x05\x00\x02\x03\x00\x00	R Data Saved Work State
 0	string	RDX3\x0AX\x0A\x00\x00\x00\x03\x00\x03\x06\x00\x00\x03\x05\x00\x00	R Data Saved Work State
-!:ext	rdata
 
 
 # RAG D Image Format
@@ -6220,13 +6146,13 @@
 # http://fileformats.archiveteam.org/wiki/Ray_Dream
 0	string	3DC
 >10	search/500	Ray\ Dream\ Designer	Ray Dream Designer File
-!:ext	rd4
+!:ext	rd4/brw
 
 
 # RDOFF Object File Format
 # https://hwiegman.home.xs4all.nl/fileformats/rdoff/rdoff.txt
 0	string	RDOFF1	RDOFF Object File Format
-!:ext	rdoff
+!:ext	rdf/rdx
 
 
 # REALbasic Xojo Real Studio Project
@@ -6240,13 +6166,13 @@
 # Receiver Independent Exchange Format
 # https://en.wikipedia.org/wiki/RINEX
 60	string	RINEX\ VERSION\ /\ TYPE	Receiver Independent Exchange Format
-!:ext	rinex
+!:ext	93n/93o
 
 
 # RED Files Library
 # http://fileformats.archiveteam.org/wiki/RED_(Knowledge_Dynamics)
 0	string	RR\x01)	RED Files Library
-!:ext	lif2
+!:ext	lif
 
 
 # REDengine Archive Format
@@ -6313,7 +6239,7 @@
 # Renoise Module
 0	string	RNS
 >13 string	Chunk\ Start\ <<<	Renoise Module (Old Format)
-!:ext	Old Format
+!:ext	rns
 
 
 # Research Documents Information Format
@@ -6326,7 +6252,7 @@
 # Rexx Programming Language File
 # https://en.wikipedia.org/wiki/Rexx
 0	string	=/*\ REXX	Rexx Programming Language File
-!:ext	rx
+!:ext	rx/zrx
 
 
 # RHIDE Project File
@@ -6385,7 +6311,7 @@
 # Rob Northen compression format
 # https://segaretro.org/Rob_Northen_compression
 0	string	RNC	Rob Northen compression format
-!:ext	map
+!:ext	map/bmp
 
 
 # Rocky Interlace Picture
@@ -6433,7 +6359,7 @@
 # http://www.esrcen.com/sanspro.html
 # http://www.esrcen.com/Start510-Tutorial-English.pdf
 0	string	=*SANSMOD	SANSPRO Model
-!:ext	mdl3
+!:ext	mdl
 
 
 # SBStudio Module
@@ -6445,7 +6371,7 @@
 # SBTab Format
 # https://www.sbtab.net/sbtab/default/downloads.html
 0	search/200	=!!SBtab\x20	SBTab Format
-!:ext	sbtab
+!:ext	tsv
 
 
 # Schedule+ Contacts File
@@ -6516,7 +6442,7 @@
 # http://fileformats.archiveteam.org/wiki/SFX
 # https://ist.uwaterloo.ca/~schepers/formats/SFX.TXT
 3371	string	C64/C128\ SELF\ EXTRACTING\ LHARCHIVE	Self Extracting Lha Lzh Compressed Files
-!:ext	sfx2
+!:ext	sfx
 
 
 # Septentrio PolaRxS PRO GNSS Data File
@@ -6600,14 +6526,14 @@
 
 # Sibelius Sound Set
 0	search/200	=<!DOCTYPE\ SoundSet\ SYSTEM\ "SoundSet.dtd"	Sibelius Sound Set
-!:ext	sibelius
+!:ext	xml
 
 
 # Sierra Audio
 # http://samples.mplayerhq.hu/game-formats/sol/
 # https://wiki.multimedia.cx/index.php/Sierra_Audio
 2	string	SOL\x00	Sierra Audio
-!:ext	sol
+!:ext	aud/sfx
 
 
 # Signum Word Processor File
@@ -6620,7 +6546,7 @@
 # https://en.wikipedia.org/wiki/Silent_Hunter_(video_game)
 # https://www.subsim.com/subsim_files/patches2005.html
 0	string	ASCN	Silent Hunter Custom Mission File
-!:ext	scn2
+!:ext	scn
 
 
 # SIMetrix Schematic File
@@ -6642,7 +6568,7 @@
 # https://www.spagmag.org/archives/backissues/spag49.html
 # https://www.ifarchive.org/indexes/if-archiveXprogrammingXsintac.html
 0	string	JSJ\ SINTAC	SINTAC Interactive Fiction Font File
-!:ext	sintacfont
+!:ext	fnt
 
 
 # Skale Tracker Module
@@ -6670,7 +6596,7 @@
 # https://en.wikipedia.org/wiki/SoftQuad_Software
 # http://webcache.googleusercontent.com/search?q=cache:ZlfQmK1y-cIJ:ftp://ftp.cc.umanitoba.ca/software/pc_html/hotmetal.txt+&cd=1&hl=en&ct=clnk&gl=us&client=ubuntu
 0	string	=<!SQ\ DTD	SoftQuad Compiled SGML Rules File
-!:ext	mtl2
+!:ext	mtl
 
 
 # Sogou Pinyin Cell Dictionary File
@@ -6695,7 +6621,7 @@
 # SolidWorks eDrawings 3D Part File
 # https://mechanitec.ca/what-is-solidworks-edrawings/
 0	string	=[\x01\0\0\0\xbe\x0d2	SolidWorks eDrawings 3D Part File
-!:ext	eprt
+!:ext	eprt/easm/edrw
 
 
 # SolidWorks Report Template
@@ -6730,7 +6656,7 @@
 # https://en.wikipedia.org/wiki/Sonique_(media_player)
 # https://www.wikidata.org/wiki/Q105853326
 0	string	DAF\x00LIST	Sonique Music Player Skin
-!:ext	sgf2
+!:ext	sgf
 
 
 # Sonix sampled Sound Instrument
@@ -6767,7 +6693,7 @@
 # Sound Club 2 Sound Bank
 # https://github.com/zaps166/NFSIISE/issues/12
 0	string	BNKl	Sound Club 2 Sound Bank
-!:ext	bnk2
+!:ext	bnk
 
 
 # Sound eXchange Format
@@ -6829,13 +6755,6 @@
 0	string	\xa7\x02\ \xa0\xe5\xa9\x0a\x8d	Spyne Container
 !:ext	spy
 
-
-# Squash Compressed Data
-# http://fileformats.archiveteam.org/wiki/Squash_(RISC_OS)
-0	string	SQSH	Squash Compressed Data
-!:ext	squash
-
-
 # SSEYO Koan Play File
 # https://en.wikipedia.org/wiki/Koan_(program)
 # https://intermorphic.com/archive/sseyo/koan/
@@ -6885,26 +6804,26 @@
 1	string	VOL
 >8	string	VBLK
 >>16 string	GFIL	StarSeiege Tribes Game Archive
-!:ext	pvol
+!:ext	vol
 
 
 # StarSiege Mission File
 # https://en.wikipedia.org/wiki/Starsiege
 # https://ss4life-free-fr.translate.goog/Astuces.htm?_x_tr_sch=http&_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
 0	string	SIMG	StarSiege Mission File
-!:ext	mis3
+!:ext	mis
 
 
 # Startracker Module Sound Data 4 channel
 # http://fileformats.archiveteam.org/wiki/Amiga_Module
 1080	string	FLT4	Startracker Module Sound Data 4 channel
-!:ext	modstar4
+!:ext	mod
 
 
 # Stata Graph
 # https://www.stata.com/manuals/g-4conceptgphfiles.pdf
 0	string	StataFileTM:00001:01000:LiveGPH:	Stata Graph
-!:ext	gph2
+!:ext	gph
 
 
 # Stata Markup and Control Language
@@ -6953,7 +6872,7 @@
 # https://www.soundonsound.com/reviews/steinberg-cubase-85
 # https://forums.steinberg.net/t/how-to-import-profiler-file-ie-all-preferences-rom-another-computer/106464
 0	string	Steinberg\ Resource\ File	Steinberg Resource File
-!:ext	srf2
+!:ext	srf
 
 
 # Stockholm Format
@@ -6976,7 +6895,7 @@
 0	string	S400	StoneCracker Compressed Data
 0	string	S401	StoneCracker Compressed Data
 0	string	S403	StoneCracker Compressed Data
-!:ext	stc
+!:ext	stc/c
 
 
 # Storm3D Object Definition File Format
@@ -7004,7 +6923,7 @@
 >11 string	Lau Stuffit Compressed Archive
 0	string	ST50
 >11 string	Lau Stuffit Compressed Archive
-!:ext	sit2
+!:ext	ins
 
 
 # Stuffit Self Extracting Archive
@@ -7016,7 +6935,7 @@
 # Super Marty View Format
 # https://strucbio.biologie.uni-konstanz.de/ccp4wiki/index.php/SMV_file_format
 0	string	\x7b\x0aHEADER_BYTES=	Super Marty View Format
-!:ext	smv
+!:ext	img
 
 
 # SuperCalc Version 1 Worksheet
@@ -7029,7 +6948,7 @@
 # https://www.cbmstuff.com/downloads/scp/s..._specs.txt
 # https://www.cbmstuff.com/downloads/scp/scp_image_specs.txt
 0	string	SCP	SuperCard Pro Flux Image
-!:ext	scp2
+!:ext	scp
 
 
 # SuperLink File
@@ -7093,7 +7012,7 @@
 # http://www.htslib.org/doc/tabix.html
 # http://samtools.github.io/hts-specs/tabix.pdf
 0	string	TBI\x01	Tabix Index File
-!:ext	tbi
+!:ext	tbi.uncompressed
 
 
 # Tableau Data Extract
@@ -7133,7 +7052,7 @@
 # Tanner Binary Database
 # https://usermanual.wiki/Document/LEdit20Manual.38314693/help
 0	string	TDB\ File:\ Generic	Tanner Binary Database
-!:ext	tdb2
+!:ext	tdb
 
 
 # TAP Commodore 64
@@ -7169,7 +7088,7 @@
 # https://sushitee.github.io/tml/mapformat.html
 0	string	DATA\x03\x00\x00\x00	Teeworlds DDRace Map Format
 0	string	DATA\x04\x00\x00\x00	Teeworlds DDRace Map Format
-!:ext	map6
+!:ext	map
 
 
 # TerraGen Light and Atmosphere File
@@ -7182,7 +7101,7 @@
 # https://planetside.co.uk/terragen-overview/
 # https://planetside.co.uk/forums/index.php/topic,17623.0.html
 0	string	TERRAGENSURFMAP2SRFL	TerraGen Surface File
-!:ext	srf3
+!:ext	srf
 
 
 # Terragen Terrain
@@ -7235,7 +7154,6 @@
 # http://eab.abime.net/showthread.php?t=82886
 # https://www.kvraudio.com/forum/viewtopic.php?t=563450
 0	string	TFMX-SONG\x20	TFMX Module Sound Data
-!:ext	tfmx
 
 
 # The 0ok Amazing Synth Tracker Module
@@ -7251,31 +7169,29 @@
 >20 string	HEDR	The Elder Scrolls Plugin and Master File
 0	string	TES3
 >16 string	HEDR	The Elder Scrolls Plugin and Master File
-!:ext	esm2
-
+!:ext	esm/esp
 
 # The Imploder Compresssed Data
 # https://www.exotica.org.uk/wiki/Imploder_file_formats#FImp
 0	string	IMP!	The Imploder Compresssed Data
-!:ext	impbang
 
 
 # ThermoVision FFF Format
 # https://exiftool.org/forum/index.php?action=dlattach;topic=5602.0;attach=897
 0	string	FFF\x00ResearchIR\x00\x00\x00\x00\x00\x00	Thermovision FFF Format
-!:ext	seq2
+!:ext	seq
 
 
 # The Settlers II World Map
 # https://en.wikipedia.org/wiki/The_Settlers_II
 0	string	WORLD_V1.0	The Settlers II World Map
-!:ext	wld2
+!:ext	wld
 
 
 # The Sims IFF Game Data
 # http://fileformats.archiveteam.org/wiki/IFF_(The_Sims)
 0	string	IFF\ FILE\ 2.5:TYPE\ FOLLOWED\ BY\ SI	The Sims IFF Game Data
-!:ext	simsiff
+!:ext	iff
 
 
 # The Software Toolworks Installation Compressed Archive
@@ -7288,7 +7204,7 @@
 # https://en.wikipedia.org/wiki/The_Witcher_(video_game_series)
 # https://witcher.fandom.com/wiki/TheWitcherSave_format
 0	string	RGMH	The Witcher Rich Save Game File
-!:ext	witcher
+!:ext	TheWitcherSave
 
 
 # TheDraw COM file Screen Save
@@ -7325,13 +7241,11 @@
 # Tile Editor TED Game Map
 # https://moddingwiki.shikadi.net/wiki/GameMaps_Format
 0	string	TED5v1	Tile Editor TED Game Map
-!:ext	ted
 
 
 # TINA Circuit File
 # https://www.ti.com/lit/ug/sbou052a/sbou052a.pdf?ts=1690268543118&ref_url=https%253A%252F%252Fwww.google.com%252F
 0	string	OBSS\x1A\x01	TINA Circuit File
-!:ext	tsc2
 
 
 # Tiny Vector Graphics Format
@@ -7351,7 +7265,7 @@
 # https://archive.org/details/TSCAD0_ZIP
 0	string	TommySoftware\ MP	TommySoftware CAD DRAW Drawing
 0	string	TommySoftware\ TV	TommySoftware CAD DRAW Drawing
-!:ext	t4g2
+!:ext	t4g/mpg
 
 
 # Topcon GPS Positioning Systems File
@@ -7392,7 +7306,7 @@
 # Tripos File
 # https://upjv.q4md-forcefieldtools.org/Tutorial/leap-mol3.php
 0	string	=@<TRIPOS>MOLECULE	Tripos File
-!:ext	mol
+!:ext	mol2/mol3
 
 
 # TRR Format
@@ -7413,12 +7327,6 @@
 # https://xinu.cs.mu.edu/index.php/TRX_header
 0	string	HDR0	trx Firmware File
 !:ext	trx
-
-
-# TSComp Compressed Data
-# http://fileformats.archiveteam.org/wiki/TSComp
-0	string	e]\x13\x8c\x08\x01	TSComp Compressed Data
-!:ext	tsc
 
 
 # Tsunami MPEGEncoder Template
@@ -7451,26 +7359,26 @@
 # https://en.wikipedia.org/wiki/Borland_Turbo_C
 # https://www.wikidata.org/wiki/Q105855905
 0	string	Turbo\ C\ Context\ File	Turbo C Context File
-!:ext	dsw2
+!:ext	dsw
 
 
 # Turbo C Project File
 # https://filext.com/file-extension/PRJ
 0	string	Turbo\ C\ Project\ File	Turbo C Project File
-!:ext	prj2
+!:ext	prj
 
 
 # Turbo Debugger Configuration File
 # https://en.wikipedia.org/wiki/Borland_Turbo_Debugger
 # https://manualzz.com/doc/36966708/turbo-debugger-s-windows
 0	string	Turbo\ Debugger\ configuration\ fil	Turbo Debugger Configuration File
-!:ext	td2
+!:ext	td
 
 
 # Turbo Packer
 # http://fileformats.archiveteam.org/wiki/Turbo_Packer
 0	string	TPWM	Turbo Packer
-!:ext	pal2
+!:ext	pal
 
 
 # Turbo Pascal Configuration File
@@ -7483,7 +7391,7 @@
 # Turbo Pascal Desktop File
 # https://en.wikipedia.org/wiki/Turbo_Pascal
 0	string	Turbo\ Pascal\ Desktop\ File	Turbo Pascal Desktop File
-!:ext	dsk6
+!:ext	dsk
 
 
 # Turbo Pascal Help File
@@ -7513,7 +7421,7 @@
 # Tyros Voice File
 # https://www.sweetwater.com/store/detail/Tyros4--yamaha-tyros-4
 0	string	XVHD\x00\x00\x00PTyros3	Tyros Voice File
-!:ext	uvn
+!:ext	uvn/uvd
 
 
 # UltraCompressor II Compressed Data
@@ -7548,7 +7456,7 @@
 # https://en.wikipedia.org/wiki/Universal_Disk_Format
 # https://sites.google.com/site/udfintro/
 32769	string	BEA01	Universal Disk Format Image
-!:ext	img2
+!:ext	img
 
 
 # Universal Hint System
@@ -7579,20 +7487,20 @@
 # https://www.openoffice.org/udk/common/man/tutorial/uno_registries.html
 0	string	CSMH	UNO Registry Database
 0	string	DSMH	UNO Registry Database
-!:ext	rdb2
+!:ext	rdb
 
 
 # V.Flash PTX Raster Graphics File
 # http://fileformats.archiveteam.org/wiki/V.Flash_PTX
 0	string	=,\0\0\0\0\0\xe0\x01	V.Flash PTX Raster Graphics File 1
-!:ext	ptx2
+!:ext	ptx
 
 
 # Valve Source BSP Format
 # http://flipcode.com/articles/article_q2bsp.shtml)
 # http://www.bagthorpe.org/bob/cofrdrbob/bspformat.html
 0	string	VBSP	Valve Source BSP Format
-!:ext	bsp2
+!:ext	bsp
 
 
 # Valve Studio Model Vertex Data
@@ -7684,27 +7592,27 @@
 # Video Master Film
 # http://fileformats.archiveteam.org/wiki/Video_Master_Film
 0	string	VMAS	Video Master Film
-!:ext	flm2
+!:ext	flm
 
 
 # VIM Filetype Plugin File
 # https://en.wikipedia.org/wiki/Vim_(text_editor)
 0	string	="\ Vim\ filetype\ plugin	VIM Filetype Plugin File
-!:ext	vim_filetype
+!:ext	vim
 
 
 # VIM Indent File
 # https://en.wikipedia.org/wiki/Vim_(text_editor)
 # https://psy.swansea.ac.uk/staff/carter/vim/vim_indent.htm
 0	string	"\ Vim\ indent\ file\x0A\"	VIM Indent File
-!:ext	vim_indent
+!:ext	vim
 
 
 # Vim Spelling File
 # https://en.wikipedia.org/wiki/Vim_(text_editor)
 # https://github.com/vim/vim/blob/416b5f4894196947ea87eea2ed4fda3504674f72/src/spellfile.c
 0	string	VIMspell	Vim Spelling File
-!:ext	vimspell
+!:ext	spl
 
 
 # Vim Spelling Suggestion File
@@ -7719,7 +7627,7 @@
 # https://en.wikipedia.org/wiki/Vim_(text_editor)
 # https://vim.fandom.com/wiki/Creating_your_own_syntax_files
 0	string	="\ Vim\ syntax\ file	VIM Syntax File
-!:ext	vim_syntax
+!:ext	vim
 
 
 # Visual Basic Class File
@@ -7743,7 +7651,7 @@
 # https://en.wikipedia.org/wiki/VisualBoyAdvance
 # https://tasvideos.org/EmulatorResources/VBA/VBM
 0	string	VBM\x1A	Visual Boy Advance Movie Capture
-!:ext	vbm2
+!:ext	vbm
 
 
 # Visual LISP Application
@@ -7804,12 +7712,12 @@
 # VMWare Virtual Machine Disk Descriptor File
 # http://www.vmware.com/app/vmdk/?src=vmdk
 0	string	=#\ Disk\ DescriptorFile\x0Aversion=	VMWare Virtual Machine Disk Descriptor File
-!:ext	vmdk2
+!:ext	vmdk
 
 
 # VMWare Virtual Machine Disk Paging File
 0	search/1400	\xFF\x00\xF0\xC3\xE2\x00\xF0\x53\xFF\x00\xF0\x53\xFF\x00\xF0\x54\xFF\x00\xF0	VMWare Virtual Machine Disk Paging File
-
+!:ext	vmem
 
 
 # VMWare Virtual Disk Suspended State File
@@ -7822,21 +7730,21 @@
 0	string	\xD2\xBE
 >9	string	\x00\x00\x00Checkpoint\x00\x00\x00\x00\x00\x00\x00\x00	VMWare Virtual Disk Suspended State File
 >9	string	\x00\x00\x00Snapshot	VMWare Virtual Disk Suspended State File
-
+!:ext	vmss
 
 
 # Vocal Eyes Screenreader Set File
 # https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/93149
 # https://www.afb.org/aw/3/1/14962
 0	string	26Vocal-	Vocal Eyes Screenreader Set File
-!:ext	set2
+!:ext	set
 
 
 # VX REXX OS 2 Binary Window Resource File
 # https://en.wikipedia.org/wiki/VX-REXX
 # https://www.os2world.com/forum/index.php?topic=718.0
 0	string	VRX\ \ \ OS/2	VX REXX OS 2 Binary Window Resource
-!:ext	vry
+!:ext	vry/vrw
 
 
 # VX REXX OS 2 Function Source File
@@ -7901,27 +7809,27 @@
 # https://telparia.com/fileFormatSamples/archive/wrp/
 # http://fileformats.archiveteam.org/wiki/WRP
 0	string	Warp\ v1.	Warp Compressed Disk Image
-!:ext	wrp2
+!:ext	wrp
 
 
 # WATCOM Binary Patch File Format
 # https://en.wikipedia.org/wiki/Watcom_C/C%2B%2B
 0	string	WATCOM\ binary\ patch\ file\ format	WATCOM Binary Patch File Format
-!:ext	watcom
+!:ext	a
 
 
 # WATCOM Linker
 # https://en.wikipedia.org/wiki/Watcom_C/C%2B%2B
 # https://users.pja.edu.pl/~jms/qnx/help/watcom/compiler-tools/wlink.html
 0	string	WATCOM\ Linker\ Version\x20	WATCOM Linker
-!:ext	map5
+!:ext	map
 
 
 # WATCOM Profiler Data File
 # https://en.wikipedia.org/wiki/Watcom_C/C%2B%2B
 # https://users.pja.edu.pl/~jms/qnx/help/watcom/compiler-tools/profiler.html
 0	string	WATCOM\ Profiler\ data\ file	WATCOM Profiler Data File
-!:ext	smp3
+!:ext	smp
 
 
 # Web2C_TeX File Format
@@ -7941,13 +7849,13 @@
 # WHP Exchange BOTTLE Format
 # https://exchange-format.readthedocs.io/en/latest/index.html
 0	string	BOTTLE	WHP Exchange BOTTLE Format
-!:ext	bottle
+!:ext	csv
 
 
 # WHP Exchange CTD Format
 # https://exchange-format.readthedocs.io/en/latest/index.html
 0	string	CTD	WHP Exchange CTD Format
-!:ext	ctd
+!:ext	csv
 
 
 # Whysynth Patch
@@ -8013,7 +7921,7 @@
 # Wolfram Computable Document Format
 # https://en.wikipedia.org/wiki/Computable_Document_Format
 0	string	=(*\ Content-type:\ application/vnd.wolfram.cdf.text	Wolfram Computable Document Format
-!:ext	cdf3
+!:ext	cdf
 
 
 # WordStar for Windows Document
@@ -8049,7 +7957,6 @@
 # Wordvision3
 # https://winworldpc.com/product/wordvision/1x
 0	string	=\xFF\xFF\xFF\xFF\xFFWORDVISION\x20	Wordvision3
-!:ext	wordvision
 
 
 # WVE Psion Series 3 PDA Audio Format
@@ -8062,14 +7969,14 @@
 # https://en.wikipedia.org/wiki/X-Moto
 0	string	\x01\x78\x56\x34\x12	X Moto Replay File
 0	string	\x03\x78\x56\x34\x12	X Moto Replay File
-!:ext	rpl4
+!:ext	rpl
 
 
 # X11 Bitmap Distribution Format Font Text
 # https://www.adobe.com/content/dam/acom/en/devnet/font/pdfs/5005.BDF_Spec.pdf
 # https://fontforge.org/docs/techref/BDFGrey.html?highlight=startfont
 0	string	STARTFONT	X11 Bitmap Distribution Format Font Text
-!:ext	bdf2
+!:ext	bdf
 
 
 # Xara 3D Maker
@@ -8144,7 +8051,7 @@
 # http://fileformats.archiveteam.org/wiki/XL-Paint
 0	string	XLP\x42	Xl Paint Raw Format
 0	string	XLP\x4D	Xl Paint Raw Format
-!:ext	xlpaint
+!:ext	raw
 
 
 # Xorg Font Encoding File
@@ -8196,7 +8103,7 @@
 # Young Picasso Image
 # http://fileformats.archiveteam.org/wiki/Young_Picasso
 0	string	P\x00\x00P\x00\x00R\x00\x00	Young Picasso Image
-!:ext	yp
+!:ext	yp/ppr
 
 
 # Zbrush Matcap
@@ -8239,13 +8146,12 @@
 # Zinc Application Framework Data File
 # http://openzinc.com/Documentation/OpenZinc%201%20GETTING%20STARTED.pdf
 0	string	Zinc\ Data\ File\ Version	Zinc Application Framework Data File
-!:ext	zinc
 
 
 # Zoner Bitmap
 # http://fileformats.archiveteam.org/wiki/BMI_(Zoner)
 0	string	ZonerBMI	Zoner Bitmap
-!:ext	zoner
+!:ext	bmi
 
 
 # Zoom Compressed Disk Image v5.x
@@ -8257,7 +8163,7 @@
 # Zoombrowser Ex Thumbnail Cache
 # http://fileformats.archiveteam.org/wiki/ZoomBrowser_Ex_thumbnail_cache
 0	string	zbex\x04\x00\x00L\x00\x00\x00\x00\x00\x02\x00\x00\x00\x04\x00\x00	Zoombrowser Ex Thumbnail Cache
-!:ext	zinfo
+!:ext	info
 
 
 # ZoomScape Multimedia File
@@ -8265,14 +8171,14 @@
 # http://elisoftware.org/w/index.php/Category:Knowledge_Adventure
 # https://en.wikipedia.org/wiki/JumpStart_Games
 0	string	LzH2	ZoomScape Multimedia File
-!:ext	zoom
+!:ext	mov
 
 
 # ZSNES Save State File
 # https://en.wikipedia.org/wiki/ZSNES
 # https://github.com/CouchPotato/CouchPotatoV1/blob/master/library/hachoir_parser/game/zsnes.py
 0	string	ZSNES\ Save\ State\ File	ZSNES Save State File
-!:ext	zst2
+!:ext	zst
 
 
 # ZSTD Compressed File
